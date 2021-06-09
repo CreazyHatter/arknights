@@ -17,17 +17,13 @@ label Chapter1_1:
         yalign 0.75
 
     # These display lines of dialogue
-    amy "Conceinte"
-    amy "Comensando ciclo.... deteniendo acencion aortica .....inyeccion cardioestimulante completa"
-    amy "Temperatura corporal es my baja"
-    amy "Hexametorfina 20cc, intravenosa"
-    amy "Reanimacion!"
-    amy "Condicion normal... comiensen estabilisacion pongan atenciion al monitor .... "
-    amy "coloqen el...."
-    amy".... preparence para reinicio..."
-    amy "....."
-    amy "......sorry....."
-    amy "Por dejarte hacerte denuevo"
+    amy "...consciencia..."
+    amy "Circulación restablecida....constantes estables...solución cardioestimulante inyectada..."
+    amy "La temperatura corporal es baja...administrando 20 cc. de hexametasona"
+    amy "¡Coge el hemóstato!"
+    amy "Condiciones estables...comenzando la resección...cuidado con la fibrilación ventricular"
+    amy "...Lo siento..."
+    amy "...Por hacerte sufrir de nuevo..."
     amy "...."
 
     hide amiya faded
