@@ -17,7 +17,7 @@ label Chapter1_1:
         yalign 0.75
 
     # These display lines of dialogue
-    amy "...consciencia..."
+    amy "...conciencia..."
     amy "Circulación restablecida....constantes estables...solución cardioestimulante inyectada..."
     amy "La temperatura corporal es baja...administrando 20 cc. de hexametasona"
     amy "¡Coge el hemóstato!"
@@ -33,14 +33,15 @@ label Chapter1_1:
         xalign 0.25
         yalign 0.75
 
-    amy "{color=#96989A}Doctor{/color}....."
-    amy ".... mano"
-    amy "agarrate ... fuerte!"
-    amy "agarra mi mano fuerte!"
-    amy "...."
-    amy "emergencia...."
-    amy ".... ayuda...."
-    amy "exitosamente"
+    amy "{color=#96989A}Doctor{/color}..."
+    amy "Doctor..."
+    amy "...mano!"
+    amy "¡Agarra mi...!"
+    amy "¡Agarra mi mano!"
+    amy "..."
+    amy "Emergencia...."
+    amy "...Ayuda..."
+    amy "Está hecho"
     amy "{color=#96989A}Doctor{/color} despierta .... despierta "
 
     show litia:
