@@ -18,13 +18,13 @@ label Chapter1_1:
 
     # These display lines of dialogue
     amy "...conciencia..."
-    amy "Circulación restablecida....constantes estables...solución cardioestimulante inyectada..."
-    amy "La temperatura corporal es baja...administrando 20 cc. de hexametasona"
+    amy "Circulación restablecida...constantes estables...solución cardioestimulante inyectada..."
+    amy "La temperatura corporal es baja...administrando 20 cc. de hexametasona..."
     amy "¡Coge el hemóstato!"
-    amy "Condiciones estables...comenzando la resección...cuidado con la fibrilación ventricular"
+    amy "Condiciones estables...comenzando la resección...cuidado con la fibrilación ventricular..."
     amy "...Lo siento..."
     amy "...Por hacerte sufrir de nuevo..."
-    amy "...."
+    amy "..."
 
     hide amiya faded
     #quit amiya intro
@@ -35,13 +35,13 @@ label Chapter1_1:
 
     amy "{color=#96989A}Doctor{/color}..."
     amy "Doctor..."
-    amy "...mano!"
+    amy "¡...mano!"
     amy "¡Agarra mi...!"
     amy "¡Agarra mi mano!"
     amy "..."
     amy "Emergencia...."
     amy "...Ayuda..."
-    amy "Está hecho"
+    amy "...¡Está hecho!..."
     amy "{color=#96989A}Doctor{/color} despierta .... despierta "
 
     show litia:
