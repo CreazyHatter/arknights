@@ -18,12 +18,12 @@ label Chapter1_1:
 
     # These display lines of dialogue
     amy "...conciencia..."
-    amy "Circulación restablecida...constantes estables...solución cardioestimulante inyectada..."
-    amy "La temperatura corporal es baja...administrando 20 cc. de hexametasona..."
+    amy "Circulación restablecida... constantes estables... solución cardioestimulante inyectada..."
+    amy "La temperatura corporal es baja... administrando 20 cc. de hexametasona..."
     amy "¡Coge el hemóstato!"
-    amy "Condiciones estables...comenzando la resección...cuidado con la fibrilación ventricular..."
-    amy "...Lo siento..."
-    amy "...Por hacerte sufrir de nuevo..."
+    amy "Condiciones estables... comenzando la resección... cuidado con la fibrilación ventricular..."
+    amy "... Lo siento..."
+    amy "... Por hacerte sufrir de nuevo..."
     amy "..."
 
     hide amiya faded
@@ -35,13 +35,16 @@ label Chapter1_1:
 
     amy "{color=#96989A}Doctor{/color}..."
     amy "Doctor..."
-    amy "¡...mano!"
+    amy "¡... mano!"
     amy "¡Agarra mi...!"
     amy "¡Agarra mi mano!"
     amy "..."
-    amy "Emergencia...."
-    amy "...Ayuda..."
+    amy "Emergencia..."
+    amy "... Ayuda..."
     amy "...¡Está hecho!..."
+    
+    # Tenemos que hablar de el siguiente fragmento, porque ni siquiera aparece en el script que yo tengo. Hasta la línea 65 la dejo como está, ya veremos.
+    
     amy "{color=#96989A}Doctor{/color} despierta .... despierta "
 
     show litia:
@@ -71,26 +74,33 @@ label Chapter1_1:
     show litia:
         xalign 0.75
         yalign 0.75
-    lil "Tu, tu desoertaste?"
-    lil "No te muevas, tu cuerpo todavia no se ha ajustado bien"
-    lil "Amiya, tuvo exito, esta recuperando la conciencia"
-    am "{color=#96989A}Doctor{/color}.....?"
-    am "Gracias a dios,... gracias a dios "
-    doc "Quien eres "
-    am "ah__{color=#96989A}Doctor{/color}____yo... "
-    am "....."
-    am "Yo soy....."
-    am "Mi nombre es Amiya"
-    doc "Quien soy yo"
+    am  "¡...!"
+    lil "¿Estás despierto?"
+    lil "¡Amiya, lo hemos conseguido! El Doctor ha despertado."
+    am "¿{color=#96989A}Doctor{/color}...?"
+    am "Me alegra tanto... Doctor..."
+    lil "¡Cuidado! No deberías hacer eso..."
+    lil "No intentes moverte. Tu cuerpo todavía no se ha adaptado por completo a esto."
+    am "¿Doctor?..."
+    doc "¿Quién... eres?"
+    am "Ah, {color=#96989A}Doctor{/color}... soy yo..."
+    am "..."
+    am "Soy yo, Amiya."
+    am "Hemos venido a rescatarte."
+    doc "¿Quién... soy?"
     #intro de name of the player
     #init var of player
-    $ player_name = renpy.input("Introdusca el con el cual se le referira nombre")
+    $ player_name = renpy.input("Introduzca su nombre:")
     $ player_name = player_name.strip()
     if not player_name:
         $player_name = "Yolo"
-    am "tu eres mi compañero, Doc [player_name]"
-    am "Mi acompañante más importante"
-    am "Tú .... puedes recordar algo?"
+    am "Tú..."
+    am "Tú eres miembro de Rhode Island, igual que nosotras..."
+    am "Así como mi compañero."
+    am "Dr" #Aquí debes configurar lo que sea para que muestre el nombre del jugador, yo en eso no me meto.
+    am "Eres la persona más importante para mí."
+    am "Doctor... ¿no lo recuerdas?"
+    # También tenemos que discutir qué pasa aquí. En el script aquí se abre una múltiple elección con diferentes respuestas.
     doc "*niega con la cabeza"
     lil "como... esto es verdaderamente....."
     am "esto...."
