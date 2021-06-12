@@ -1,0 +1,211 @@
+02-01
+
+5:57 AM / Nublado / Visibilidad: 17 km
+Desierto; A 4 km de las afueras de Lungmen
+4 días después de la misión de rescate de Chernobog 
+ 
+ PRTS			Buenos días, Dr .player_name}. Actualmente ha estado durmiendo durante 			
+          99999––––––––9999 horas.
+			    Aunque su renuencia a dejar la cama no está fuera de razón, su presencia es
+          urgentemente necesaria en la sala de operaciones.
+			    Además, aquí hay algunos consejos médicos del Dr. Kal'tsit: Por favor,
+          mantenga las ventanas abiertas para mantener una fuente de aire fresco, y
+          pasar algún tiempo en la cubierta para mantener niveles saludables de
+          vitamina D. 
+          
+La llamada termina y el Doctor se dirige al puente de la nave terrestre de Rhodes Island.
+
+Background
+
+Amiya			  ¡Ah, doctor! Buenos días. 
+
+Bobermann		Así que lo hiciste, Dr. {player_name}.
+
+Amiya			  Doctor, ¿te sientes mejor ahora?
+			      Parecia que todavía estabas con dolor y no podías moverte bien ayer. 
+
+Doctor			He hecho una recuperación completa. ¿Y tú? 
+
+Amiya		    Estoy perfectamente bien y llena de energía hoy!
+		        Después de todo, todavía tenemos otras misiones que cuidar...
+	    	    Así que cuanto antes podamos empezar a prepararnos, mejor. Doctor, usted
+            debe acostumbrarse a tener que cambiar de marcha rápidamente aquí. 
+
+Dobermann		Doctor
+		      	A pesar de que sufrimos grandes pérdidas en Chernobog, obtuvimos mucha
+            información sobre Reunión y, lo que es más importante, te sacamos con vida.
+			      Sobre la base de las negociaciones que tuvimos ayer, la ciudad móvil más
+            cercana a nosotros, Lungmen, nos ha ofrecido un pacto de cooperación y ha
+            aceptado intercambiar información con nosotros.
+			      Tenemos algunas pruebas de que Reunión podría estar apuntando a Lungmen
+            a continuación.
+			      Primero tendremos que esperar el permiso del Dr. Kal'tsit antes de poder
+            obtener el resto de la información. Ella todavía está estacionada dentro de
+            Lungmen. 
+
+Amiya			  Lungmen nos ha concedido permiso para acampar temporalmente cerca de la
+            ciudad. También han acordado compensar una parte de nuestras pérdidas y
+            gastos durante la operación.
+			      En intercambios, se espera que Rhodes Island ayude a defender las afueras de
+            la ciudad.
+			      Pero la razón por la que te llamé tan temprano es... 
+
+Dobermann		Déjame explicarlo, Amiya.
+			      Anoche, descubrimos otra ola de supervivientes de Chernobog que se abren
+            paso hacia Lungmen. Se espera que lleguen por la tarde.
+			      Se espera que protejamos las afueras del Distrito 5 al igual que en los últimos
+            días. Solo que esta vez, podría haber más miembros de Reunión mezclados en
+            el grupo.
+			      Debido a que la situación es un poco diferente, tendremos que discutir 
+            algunas tácticas nuevas con usted antes de comenzar la operación. 
+
+Amiya			  De todos modos, doctor, hay mucho que superar hoy, así que...
+			      ¡Hagamos nuestro mejor esfuerzo! 
+
+Dobermann		En cualquier caso... 
+
+Imagen
+Dobermann 	Todos ustedes, por favor complete sus preparativos para el combate. Doctor,
+            una vez que haya decidido las asignaciones de su escuadrón, por favor hágase 
+            lo saber a los operadores para que también tengan tiempo para prepararse.
+			      Vamos a establecer 15 minutos después de terminar sus ejercicios.
+			      Ah, y asegúrate de que no llegas tarde esta vez. 
+
+
+After operation
+
+
+22:14 / Despejado / Visibilidad: 19 km
+Lungmen, Distrito 5– Zona de Inspección y Cuarentena 
+
+Background
+
+???			    Señora.
+			      Están aquí. 
+
+???			    ...
+
+Una radio se puede escuchar en el puesto de control. 
+
+Broadcast		Atención, por favor...
+			      Debido a la interferencia de la Catástrofe, todo el tráfico aéreo en Lungmen 			
+            ha sido detenido. Todas las entradas al Distrito 5 estarán cerradas en dos 
+            horas.
+		      	Le agradecemos su cooperación durante las inspecciones de Oripathy.
+		      	Si descubre algún infectado no registrado, informe inmediatamente a un 			
+            oficial de paz cercano.
+		      	El L.G.D. los detendrá de acuerdo con la "Ley de Manejo de Emergencias".
+		      	Atención, por favor... 
+
+La transmisión se repite cuando Amiya y el Doctor llegan al puesto de control.
+
+Amiya			Es como decían los rumores...
+		    	Vamos, doctor.
+		    	Estamos aquí. 
+
+
+???		  	Rhodes Island la reunión estaba programada con el L.G.D. a las 10 en punto.
+		     	Son las 10:14 ahora.
+		     	Llegasteis tarde 14 minutos; por lo tanto, habéis perdido 14 minutos de mi 	
+          tiempo. 	
+
+Amiya			... Lo siento, señora Ch'en, nos acabamos de enterar que Reunión está aquí... 
+
+Ch'en			Está bien, ya lo sé. Pero eso no es importante en este momento.
+			    ... ¿Quién es?
+
+Amiya			El Dr. {player_name} es el consultor de Rhodes Island. La Dr. Kal'tsit ya 
+          debería haberla informado.  
+
+Ch'en			Hmm...
+			    Bueno, ya que todo el mundo está aquí, ahora voy a necesitar que me sigas...
+
+Un agente de L.G.D. se pone al lado de Ch'en.
+
+L.G.D. Agente	  Señora Ch'en! ¡Es una emergencia! Los infectados... no lo son... 
+
+Ch'en			¡No te asustes!
+		    	¡Primer Escuadrón, en espera! Francotiradores, ponerse en posición! 
+
+Ciudadano		¿Que esta pasando?
+
+Infectado		¡Soltadme!
+
+Ch'en			Tch... ¿Qué esta pasando? Informe de la situación. 
+
+L.G.D. Agente	Algunos infectados... se niegan a ser acogidos en... Estamos... 
+
+Ch'en			Puedo ver que...
+			    Olvídalo.
+			    Detención de todos ellos.
+		    	Dispersar a la multitud de inmediato. Abra las puertas en 30 minutos después 		
+          de finalizar el proceso de revisión.
+		    	Además, empuje la línea de inspección de cuarentena 40 metros hacia 			
+          adelante.
+		    	Aparte de usted y el Dr. {player_name}, el resto de Rhodes Island se quedará 		
+          aquí y ayudará con la seguridad fronteriza. Los dos, vengan conmigo.
+		     	Si tu grupo no puede manejar una tarea tan trivial, no podré asignarte ninguna 	
+          misión.
+	    		PC94172, organizar un poco de trabajo para estas personas. No quiero ver 			
+          más problemas esta noche. 
+
+L.G.D. Agente	    ¡Entendido, señora!
+			            A todos, me gustaría que... 
+
+Amiya y el Doctor siguen al agente de L.G.D.
+
+
+
+Amiya			…
+		    	(La señora Ch'en es muy dura... ella es más estricta de lo que imaginaba...) 
+
+Doctor			...(Cabecea)
+
+Ch'en		   	Vosotros dos
+
+
+Background negro
+
+
+
+Ch'en			Seguidme
+
+Amiya y el doctor la siguen
+
+Ch'en			Aqui estamos
+
+Background
+
+Amiya			¡Que...que edificio tan alto!
+
+Ch'en			…
+
+Amiya			Ugh...
+			    Lo...lo siento
+
+Ch'en			… Rhodes Island es, sin duda, Capaz.
+
+Amiya			oh...
+		    	Gracias por sus elogios, señora.
+
+Ch'en			Sin embargo...
+		    	Después del incidente de Chernobog, ha habido una oleada masiva de 		
+          refugiados en Lungmen.
+		    	Los infectados ya deben saber cuáles son las consecuencias de entrar en 	
+          Lungmen. 
+
+Ch'en lleva a Amiya y al Doctor al centro de gobierno de Lungmen.
+
+???			Te lo digo una vez mas.
+		  	Lungmen es el siguiente Chernobog
+
+Amiya			Dr. Kal'tsit...!
+
+Ch'en			El representante de Rhodes Island ya se ha reunido con el jefe Wei.
+	    		Por favor esperar aquí.	
+		    	Os avisare en breve. 
+
+Amiya			Ufff... es muy difícil hablar con ella.
+    			Dr.{player_name}, a partir de aquí, el Dr. Kal'tsit se encargará de las 			
+          negociaciones.
+		    	Por favor, tenga confianza en ella. 
