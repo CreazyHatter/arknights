@@ -17,6 +17,8 @@ label Chapter1_1:
         yalign 0.75
 
     # These display lines of dialogue
+    # El díalogo que viene no lo dice Amiya, lo dice la Médico aunque aparece como una "Voz distante", habría que corregirlo. Además recuerda que en estos diálogos Amiya en realidad aparece como "???" y no por su nombre.
+    
     amy "...conciencia..."
     amy "Circulación restablecida... constantes estables... solución cardioestimulante inyectada..."
     amy "La temperatura corporal es baja... administrando 20 cc. de hexametasona..."
@@ -43,8 +45,9 @@ label Chapter1_1:
     amy "... Ayuda..."
     amy "...¡Está hecho!..."
     
-    # Tenemos que hablar de el siguiente fragmento, porque ni siquiera aparece en el script que yo tengo. Hasta la línea 65 la dejo como está, ya veremos.
+    # Elimino el siguiente diálogo porque no pertenece al guión
     
+    """
     amy "{color=#96989A}Doctor{/color} despierta .... despierta "
 
     show litia:
@@ -63,7 +66,30 @@ label Chapter1_1:
     am "Estas bien {color=#96989A}Doctor{/color}?"
     lil "emm.... la respiracion es debil, precion arterial normal, ligeros espasmos respiratoriaos, esta bien"
     lil "aah..... Cuidado!"
-
+    """
+    # Agrego diálogo que no existía. Los participantes son Amiya y la médico, lleva fondo negro.
+    
+    am "¡Doctor!¡Doctor!"
+    am "Médico, ¿cómo se encuentra?"
+    am "Pero... hace un momento... sostenía mi mano..."
+    am "Entonces, ¿por qué? ¿Por qué el Doctor no se despierta?"
+    
+    # A partir de este punto Amiya pasa a llamarse Amiya como tal, ya no ???
+    
+    lil "¡Amiya! ¡No entres en pánico, primero cálmate!"
+    am "Ah... L-Lo siento."
+    lil "Siempre te pones muy nerviosa cuando se trata del Doctor"
+    lil "Pero, Amiya, si lo peor llegara a pasar... ¿qué harías entonces?"
+    am "... Ya estoy mentalmente preparada para ello. Seguiríamos adelante con el plan."
+    lil "... Lo comprendo. De todos modos, haré lo que me has pedido."
+    am "De acuerdo... te lo agradezco."
+    am "Sobre el Doctor..."
+    lil "No te preocupes, Amiya. Todos sus signos vitales están estables ahora."
+    lil "Haré una inspección más, sólo por ti"
+    am "¡Gracias!... ¡Muchas gracias!"
+    lil "La respiración es ligeramente superficial, pero la presión sanguínea es normal. No hay motivos para preocuparse."
+    
+    
     with Dissolve(5.0)
 
     scene bg indoor 1
@@ -75,6 +101,7 @@ label Chapter1_1:
         xalign 0.75
         yalign 0.75
     am  "¡...!"
+    lil "..."
     lil "¿Estás despierto?"
     lil "¡Amiya, lo hemos conseguido! El Doctor ha despertado."
     am "¿{color=#96989A}Doctor{/color}...?"
