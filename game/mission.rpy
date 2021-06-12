@@ -45,28 +45,8 @@ label Chapter1_1:
     amy "... Ayuda..."
     amy "...¡Está hecho!..."
     
-    # Elimino el siguiente diálogo porque no pertenece al guión
+    # Elimino el siguiente diálogo porque no pertenece al guión.
     
-    """
-    amy "{color=#96989A}Doctor{/color} despierta .... despierta "
-
-    show litia:
-        xalign 0.75
-        yalign 0.75
-
-    amy "{color=#0000ffff}huh huh.... Amiya! corres muy rapido! nuestro escuadron no puede seguirte el paso{/color}"
-    amy "{color=#0000ffff}Tu.. rompiste el muro...{/color}"
-    amy "{color=#0000ffff}Esto es muy peligroso tu de Rhodes la -------{/color}"
-    am "No es lo que importa ahora, Medico!"
-    am "Ven hechale un vistaso al {color=#96989A}Doctor{/color}!"
-    am "No parece estar conciente, pero el recien se agarro de mi"
-    #aparence of random pj od rodos
-    lil "O..... ok. No seas tan impaciente, yo tambien he estado buscando al {color=#96989A}Doctor{/color} por un largo tiempo"
-    lil "Ya seriamente Amiya deberias ser más cuidadosa..."
-    am "Estas bien {color=#96989A}Doctor{/color}?"
-    lil "emm.... la respiracion es debil, precion arterial normal, ligeros espasmos respiratoriaos, esta bien"
-    lil "aah..... Cuidado!"
-    """
     # Agrego diálogo que no existía. Los participantes son Amiya y la médico, lleva fondo negro.
     
     am "¡Doctor!¡Doctor!"
