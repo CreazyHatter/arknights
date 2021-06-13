@@ -209,3 +209,318 @@ Amiya			Ufff... es muy difícil hablar con ella.
     			Dr.{player_name}, a partir de aquí, el Dr. Kal'tsit se encargará de las 			
           negociaciones.
 		    	Por favor, tenga confianza en ella. 
+
+
+
+
+<<------------------parte 2------------------->>
+02-02
+
+
+Ch'en			Entrar
+
+				Amiya y el Doctor entran en la oficina de Wei Yenwu, con quien Kal'tsit está hablando. 
+
+Amiya			¡...Dr. Kal'tsit!
+
+Kal'tsit		Amiya
+			...{Player name}
+			Asi que has venido
+
+Ch'en cierra la puerta
+
+Doctor			...
+
+Ch'en			Ejem.
+			Jefe Wei, los otros dos representantes de Rhodes Island también han llegado. 
+
+Wei Yenwu		Ah, excelente.
+			Por favor, tome asiento. La Sra. Kal'tsit me está explicando la situación. 
+
+Kal'tsit		Permítanme continuar entonces. Señor Wei, confío en que ya tenga una buena 			
+			comprensión de la situación. 
+
+
+					Imagen/pantallla noticias “seven royal guards injured in riots”
+
+
+Kal'tsit		Actualmente, la red de información Lungmen obtiene mucha información 			
+			sobre el Movimiento de Reunión. Es bueno que reconozca la importancia de 			
+			esto.
+			Pero esto por sí solo no es suficiente. Lungmen todavía carece de información  			
+			clave. 
+
+
+					Backgorund/Techo oficina Wei Yenwu
+
+
+Ch'en			...
+
+Kal'tsit		Creo que el L.G.D. sabe muy bien que esta simple cuarentena no es suficiente 		
+			para contener a Reunión.
+			Reunión no pasará obedientemente por las inspecciones, ni esperarán a que 			
+			las autoridades tomen la iniciativa. Por eso...
+			Sin la ayuda de Rhodes Island, Lungmen sufrirá grandes pérdidas contra 				
+			Reunión si decide seguir las mismas estrategias contra los infectados. 
+
+Ch'en			Perdonen la interrupción.
+			El L.G.D. entiende las defensas de Lungmen mejor que Rhodes Island. Ya 		
+			hemos hecho preparativos para hacer frente a la posible infiltración de 		
+			Reunión.
+			Nosotros, sin embargo, no estamos obligados a proporcionarle información 	
+			confidencial sobre nuestras operaciones. 
+
+Wei Yenwu		...
+			Señorita Kal'tsit, por favor continue.
+
+Kal'tsit		Si bien es cierto que Lungmen ha tenido éxito en el tratamiento de infectados 		
+			desarmados hasta ahora, usted no ha tratado con esta escala de disturbios 		
+			organizados antes. Esto puede resultar en pérdidas innecesarias.
+			Desde nuestra experiencia... Sólo los infectados son capaces de contrarrestar a 	
+			los infectados. 
+
+Wei Yenwu		A mi entender, Rhodes Island es tan especializados en la lucha contra 		
+			reunión? 
+
+
+					Imagen/silueta de operadores y detrás el símbolo de Rodes Island
+
+
+Kal'tsit		Tenemos experiencia, pero yo no lo llamaría especialidad.
+
+Wei Yenwu		¿oh...?
+			Me han dicho que Rhodes Island estuvo involucrado con el incidente de 	
+			Chernobog, y logró obtener mucha información sobre reunión. 
+
+Kal'tsit		No importa de dónde hayas escuchado eso...
+			En esta fase, esa información no está en fase de intercambio. No es más que 	
+			una parte de nuestro currículum, una calificación que nos permite hablar con 
+			usted, señor Wei. 
+
+Wei Yenwu		Es Lungmen es el que decidirá si intercambiamos o no información. Si 
+			Rhodes Island ni siquiera puede proporcionarnos este nivel de información...
+			Hah.
+			En ese caso, simplemente no tenemos ninguna base para confiar en sus 	
+			capacidades. 
+
+					Backgorund/Techo oficina Wei Yenwu
+
+
+Kal'tsit		Señor Wei, pido disculpas si mis palabras no han sido lo suficientemente 	
+			claras.
+			Lo que debo enfatizar es... la única razón por la que Rhodes Island tiene esta 		
+			información, es porque éramos lo suficientemente fuertes como para 		
+			obtenerla. 
+
+Ch'en			Cual sea el caso, Lungmen no puede simplemente confiar en otro grupo de 		
+			infectados. 
+
+Kal'tsit		Señorita Ch'en, si usted cree que el castigo a los infectados es más importante 	
+			que la seguridad real de Lungmen ...
+			Entonces me entregaré inmediatamente de acuerdo con sus leyes locales. 		
+			Luego, suspiraré desde mi cárcel mientras veo a Reunión quemar su ciudad.
+			Esta vez, Lungmen no tiene otra opción. 
+
+Ch'en			Sus buenas intenciones no se pierden sobre nosotros a pesar de su grosería.
+			Sin embargo, tampoco somos una organización benéfica para grupos de 		
+			interés inútiles. 
+
+Wei Yenwu		Señorita Ch'en
+
+Ch'en			Jefe Wei, creo que es inapropiado que estos forasteros se involucren con los 	
+			asuntos confidenciales de Lungmen. 
+
+Wei Yenwu		Cálmese, señora Ch'en. Siguen siendo nuestros huéspedes.
+			... Mis invitados. 
+
+Ch'en			...
+			Muy bien
+			A menos que hayan violado nuestras leyes, las toleraré, señor.
+
+Yei Yenwu		Ah, perdóname. Me acabo de acordar...
+			Así es. hmm...
+			Hay una cosa que me importa.
+			Su habilidad.
+			A mi entender, Rhodes Island también está ayudando con la supresión de los 	
+			infectados cercanos?
+			Señora Ch'en, basándose en su mejor información, ¿cómo evaluaría las 			
+			habilidades de combate de Rhodes Island? 
+
+Ch'en			... Permítanme describir lo que he presenciado de las operaciones de Rhodes Island.
+			Aquí están los detalles... 
+
+
+
+						Despues de la operación
+
+
+					Background techo oficina Wei Yenwu
+
+
+Ch'en			... Y con esto concluye mi informe de las operaciones de combate de Rhodes Island. 
+
+Wei Yenwu		¿Y su evaluación? 
+
+Ch'en			Hay pocas razones para dudar de su fuerza.
+			Sin embargo, jefe Wei, dadas sus identidades, creo que desde un punto de vista 	
+			estratégico...
+			... el L.G.D. es más que capaz de manejar el trabajo. 
+
+Wei Yenwu		Cuando se trata de combatir el crimen y prevenir la infiltración, el L.G.D. es más que 		
+			suficiente.
+			Rhodes Island puede ser capaz de traer más a la mesa. sin embargo...
+			De las cosas que Rhodes Island ha solicitado, hay un "artículo" que no estamos 		
+			dispuestos a intercambiar en función de lo que se ha ofrecido.
+			La cooperación temporal de defensa que está proporcionando está lejos de tener el 	
+			mismo valor. Tal como están las cosas, su "precio de venta" es un poco demasiado 	
+			alto.
+			Señorita Kal'tsit, señorita Amiya, espero que ambas lo entiendan. 
+
+Kal'tsit 		Señor Wei, una defensa temporal no será suficiente. Hay muchas cosas sobre Reunión 	
+			que no sabes.
+			Sobre la base de los datos que recopilamos mientras los combatíamos, si no se toman 		
+			medidas proactivas, Reunion tomará el control de Lungmen dentro de dos semanas. 
+
+Ch'en			... tonterías. No hay evidencia de eso–– 
+
+Kal'tsit		Señora Ch'en, ¿le gustaría saber la verdadera razón por la que Chernobog cayó dentro 	
+			de una noche?
+
+Ch'en			…
+
+Wei Yenwu		Por favor, explíquese.
+
+Kal'tsit		Amiya.
+
+Amiya			ah... segura.
+			Rhodes Island no solo estuvo involucrada en el incidente de Chernobog... También 
+			fuimos atrapados dentro de la Catástrofe, y sobrevivimos. 
+
+Wei Yenwu		Impresionante, impresionante.
+			No todos los días me encuentro con alguien lo suficientemente loco como para haber 	
+			salido vivo de una Catástrofe. Señorita Amiya, por favor continúe, estoy escuchando. 
+
+Amiya			… Luchamos contra la líder de Reunion.
+
+Ch'en			...
+
+Wei Yenwu		¿hmm? ¿Cómo se llama de nuevo?
+			No lo recuerdo claramente... 
+
+Doctor			Talulah
+
+Wei Yenwu		Ah, claro, Talulah
+			Señorrita Ch'en, ¿tu que piensas?
+
+Ch'en			…
+			Ya... Ya lo se
+
+
+					Background se desvanece hacia fuera y hacia adentro
+
+Amiya			... Esto es lo que le sucedió a Rhodes Island en Chernobog. A pesar de que Reunión 
+			logró arrebatar el control de Chernobog a Ursus...
+			Pero para expandirse, tendrán que lidiar con su escasez de recursos. Lungmen será su 		
+			próximo peldaño.
+			A pesar de que usted podría ser capaz de defenderse de ellos por un tiempo, sus 	
+			ataques no cesarán a menos que maneje esta situación de forma proactiva.
+			además... Hay otro factor desconocido : todavía no sabemos cómo responderá Ursus 	
+			después de perder Chernobog ... 
+
+Wei Yenwu		Jajaja... Bien hablado, jovencita.
+			Debido a la gravedad de esta amenaza y la limitada mano de obra de L.G.D., no me 	
+			opongo a considerar este acuerdo temporal basado en los términos que se detallaron 	
+			anteriormente.
+			Pero lo que dije antes todavía se mantiene... 
+
+Kal'tsit		...
+			...¿El precio de venta de Rhodes Island sigue siendo demasiado alto?
+
+Wei Yenwu		Correcto.
+			Con el fin de asegurarse de que Lungmen es compensado adecuadamente, tengo dos 		
+			condiciones muy simples.
+			Primero, Rhodes Island ayudará al L.G.D. a suprimir la amenaza de la Reunión. Esto 	
+			incluye la identificación de amenazas dentro de Lungmen, así como las relacionadas 	
+			con las consecuencias de Chernobog.
+			Esto también incluye evaluar el grado en que los infectados se han infiltrado en 	
+			Lungmen. Espero que comparta cualquier información potencialmente útil con 			
+			nosotros. 
+
+Kal'tsit		¿Cuál es la segunda condición, entonces?
+
+
+Wei Yenwu		Te contaré sobre la segunda condición después de que hayas satisfecho la primera.
+			Naturalmente, no pediré nada fuera del área de experiencia de Rhodes Island. 
+
+Kal'tsit		No estoy segura de entender. ¿Podría dar más detalles, señor Wei? 
+
+Wei Yenwu		¿Cómo debo poner esto... Si reunión causa daños que superan las estimaciones de 	
+			Rhodes Island ...
+			Espero que usted ayude a la L.G.D. a manejar la situación, que puede incluir la 	
+			gestión post-desastre. Por supuesto, nada más allá de sus capacidades. Esa es más o 		
+			menos la esencia de la misma. 
+
+Kal'tsit			...
+
+Wei Yenwu		No puedo decir mucho más en este momento. Sin embargo, no lo olvides, Rhodes 	
+			Island no tiene otra opción.
+			Si no puede aceptar nuestros términos, entonces todas las condiciones que discutimos, 	
+			así como sus solicitudes, serán... 
+
+Kal'tsit		¿Amiya?
+
+Amiya			Dr. Kal'tsit...
+			Señor Wei, me gustaría añadir una cláusula más al acuerdo...
+			"Cualquier interpretación de las cláusulas debe ser acordada por ambas partes". 
+			¿Es esto aceptable? 
+
+Wei Yenwu		oh... Claro. Puedo ver su respeto a Lungmen, señorita Amiya.
+			Señora Ch'en, ¿tiene usted alguna objeción? 
+
+Ch'en			…Acepto esta operación.
+
+Wei Yenwu		Hah.
+			Parece que la señora Ch'en también tiene su propio objetivo ahora. 
+
+Ch'en			…
+
+Wei Yenwu		En cualquier caso, enhorabuena. Te has ganado la confianza de Lungmen. Señora 
+			Ch'en será responsable de sus trabajos.
+			Sin embargo, tenga en cuenta que a los infectados no se les permite moverse 		
+			libremente dentro de la ciudad, ya que eso puede causar pánico.
+
+Background negro
+
+Wei Yenwu		Espero que se aferres a las órdenes de la L.G.D. mientras llevas a cabo tus funciones.
+			Sobre todo, las órdenes de la señora Ch'en.
+			Lungmen estará abierto a Rhodes Island, siempre y cuando sus acciones estén en línea 	
+			con nosotros. 
+
+Background Cuarentena de Lungmen
+
+Amiya			Ufff... ¡Ugh...! Ese hombre era tan difícil...
+			Era tan metódico cuando hablaba, y sentía que no podía ser influenciado por nada... 
+
+Kal'tsit		Amiya, eventualmente tendrás que aprender a lidiar con estas personas tú misma.
+			Pero al final, hiciste un gran trabajo. 
+
+Amiya			Ehehe...
+
+Kal'tsit		A propósito...
+			...
+			tú... 
+
+Doctor			¿Nos conocemos, Kal'tsit? / ... Hola, Dr. Kal'tsit. / Un placer conocerte, Dr. Kal'tsit. 
+
+Kal'tsit		... ...
+
+Amiya			Dr. Kal'tsit, por favor no le des al Dr. {player_name} un tiempo difícil...
+
+Kal'tsit		“Inhala bruscamente”...
+
+Amiya			...
+
+Kal'tsit		Haah...
+			Espero que nuestros sacrificios... no fueron en vano.
+			Hola, Dr {player_name}.
+			Bienvenido. 
