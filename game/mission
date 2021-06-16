@@ -2,162 +2,160 @@
 
 5:57 AM / Nublado / Visibilidad: 17 km
 Desierto; A 4 km de las afueras de Lungmen
-4 días después de la misión de rescate de Chernobog 
- 
- PRTS			Buenos días, Dr .player_name}. Actualmente ha estado durmiendo durante 			
+4 días después de la misión de rescate de Chernobog
+
+ PRTS			Buenos días, Dr .player_name}. Actualmente ha estado durmiendo durante
           99999––––––––9999 horas.
-			    Aunque su renuencia a dejar la cama no está fuera de razón, su presencia es
-          urgentemente necesaria en la sala de operaciones.
-			    Además, aquí hay algunos consejos médicos del Dr. Kal'tsit: Por favor,
-          mantenga las ventanas abiertas para mantener una fuente de aire fresco, y
-          pasar algún tiempo en la cubierta para mantener niveles saludables de
-          vitamina D. 
-          
+			    Aunque su renuencia a dejar la cama no está fuera de lo razonable, su presencia es
+          urgentemente requerida en la sala de mando de operaciones.
+			    Además, aquí hay algunos consejos médicos de la Dra. Kal'tsit: Por favor,
+          mantenga las ventanas abiertas para mantener un flujo de aire fresco y
+          pase algún tiempo en la cubierta para mantener niveles saludables de
+          vitamina D.
+
 La llamada termina y el Doctor se dirige al puente de la nave terrestre de Rhodes Island.
 
 Background
 
-Amiya			  ¡Ah, doctor! Buenos días. 
+Amiya			  ¡Ah, doctor! Buenos días.
 
-Bobermann		Así que lo hiciste, Dr. {player_name}.
+Dobermann		Así que lo ha logrado, Dr. {player_name}.
 
 Amiya			  Doctor, ¿te sientes mejor ahora?
-			      Parecia que todavía estabas con dolor y no podías moverte bien ayer. 
+			      Ayer parecía que todavía estabas dolorido y no podías moverte bien.
 
-Doctor			He hecho una recuperación completa. ¿Y tú? 
+Doctor			Me he recuperado completamente. ¿Y tú?
 
-Amiya		    Estoy perfectamente bien y llena de energía hoy!
-		        Después de todo, todavía tenemos otras misiones que cuidar...
-	    	    Así que cuanto antes podamos empezar a prepararnos, mejor. Doctor, usted
-            debe acostumbrarse a tener que cambiar de marcha rápidamente aquí. 
+Amiya		    ¡Estoy perfectamente bien y llena de energía hoy!
+		        Después de todo, todavía tenemos otras misiones de las que hacernos cargo...
+	    	    Así que cuanto antes podamos empezar a prepararnos, mejor. Doctor, deberías
+            acostumbrarte a tener que cambiar de marcha rápido aquí.
 
 Dobermann		Doctor
 		      	A pesar de que sufrimos grandes pérdidas en Chernobog, obtuvimos mucha
-            información sobre Reunión y, lo que es más importante, te sacamos con vida.
-			      Sobre la base de las negociaciones que tuvimos ayer, la ciudad móvil más
+            información sobre Reunión y lo que es más importante, te sacamos con vida.
+			      En base a las negociaciones que tuvimos ayer, la ciudad móvil más
             cercana a nosotros, Lungmen, nos ha ofrecido un pacto de cooperación y ha
             aceptado intercambiar información con nosotros.
-			      Tenemos algunas pruebas de que Reunión podría estar apuntando a Lungmen
-            a continuación.
-			      Primero tendremos que esperar el permiso del Dr. Kal'tsit antes de poder
-            obtener el resto de la información. Ella todavía está estacionada dentro de
-            Lungmen. 
+			      Tenemos algunas pruebas de que Lungmen podría ser el próximo objetivo de Reunión.
+			      Primero tendremos que esperar el permiso de la Dra. Kal'tsit antes de poder
+            obtener el resto de la información. Ella todavía está estacionada en Lungmen.
 
 Amiya			  Lungmen nos ha concedido permiso para acampar temporalmente cerca de la
             ciudad. También han acordado compensar una parte de nuestras pérdidas y
             gastos durante la operación.
-			      En intercambios, se espera que Rhodes Island ayude a defender las afueras de
+			      A cambio, se espera que Rhodes Island ayude a defender las afueras de
             la ciudad.
-			      Pero la razón por la que te llamé tan temprano es... 
+			      Pero la razón por la que te he llamado tan temprano es...
 
 Dobermann		Déjame explicarlo, Amiya.
 			      Anoche, descubrimos otra ola de supervivientes de Chernobog que se abren
-            paso hacia Lungmen. Se espera que lleguen por la tarde.
-			      Se espera que protejamos las afueras del Distrito 5 al igual que en los últimos
+            paso hacia Lungmen. Se estima que lleguen por la tarde.
+			      Se espera que protejamos las afueras del Distrito 5 igual que los últimos
             días. Solo que esta vez, podría haber más miembros de Reunión mezclados en
             el grupo.
-			      Debido a que la situación es un poco diferente, tendremos que discutir 
-            algunas tácticas nuevas con usted antes de comenzar la operación. 
+			      Debido a que la situación es un poco diferente, tendremos que discutir
+            algunas tácticas nuevas con usted antes de comenzar la operación.
 
-Amiya			  De todos modos, doctor, hay mucho que superar hoy, así que...
-			      ¡Hagamos nuestro mejor esfuerzo! 
+Amiya			  De todos modos, Doctor, hay mucho que hacer hoy, así que...
+			      ¡Hagamos nuestro mejor esfuerzo!
 
-Dobermann		En cualquier caso... 
+Dobermann		En cualquier caso...
 
 Imagen
-Dobermann 	Todos ustedes, por favor complete sus preparativos para el combate. Doctor,
-            una vez que haya decidido las asignaciones de su escuadrón, por favor hágase 
-            lo saber a los operadores para que también tengan tiempo para prepararse.
-			      Vamos a establecer 15 minutos después de terminar sus ejercicios.
-			      Ah, y asegúrate de que no llegas tarde esta vez. 
+Dobermann 	Vosotros dos, por favor completad vuestros preparativos para el combate.
+            Doctor, una vez que haya decidido las tareas de su escuadrón, por favor
+            hágaselo saber a los operadores para que también tengan tiempo de prepararse.
+			      Nos pondremos en marcha 15 minutos después de terminar vuestros ejercicios.
+			      Ah, y asegúrese de que no llegar tarde esta vez.
 
 
 After operation
 
 
 22:14 / Despejado / Visibilidad: 19 km
-Lungmen, Distrito 5– Zona de Inspección y Cuarentena 
+Lungmen, Distrito 5– Zona de Inspección y Cuarentena
 
 Background
 
 ???			    Señora.
-			      Están aquí. 
+			      Están aquí.
 
 ???			    ...
 
-Una radio se puede escuchar en el puesto de control. 
+Una radio se puede escuchar en el puesto de control.
 
 Broadcast		Atención, por favor...
-			      Debido a la interferencia de la Catástrofe, todo el tráfico aéreo en Lungmen 			
-            ha sido detenido. Todas las entradas al Distrito 5 estarán cerradas en dos 
+			      Debido a la interferencia de la Catástrofe, todo el tráfico aéreo en Lungmen
+            ha sido detenido. Todas las entradas al Distrito 5 estarán cerradas en dos
             horas.
 		      	Le agradecemos su cooperación durante las inspecciones de Oripathy.
-		      	Si descubre algún infectado no registrado, informe inmediatamente a un 			
+		      	Si descubre algún infectado no registrado, informe inmediatamente a un
             oficial de paz cercano.
 		      	El L.G.D. los detendrá de acuerdo con la "Ley de Manejo de Emergencias".
-		      	Atención, por favor... 
+		      	Atención, por favor...
 
 La transmisión se repite cuando Amiya y el Doctor llegan al puesto de control.
 
 Amiya			Es como decían los rumores...
 		    	Vamos, doctor.
-		    	Estamos aquí. 
+		    	Estamos aquí.
 
 
 ???		  	Rhodes Island la reunión estaba programada con el L.G.D. a las 10 en punto.
 		     	Son las 10:14 ahora.
-		     	Llegasteis tarde 14 minutos; por lo tanto, habéis perdido 14 minutos de mi 	
-          tiempo. 	
+		     	Llegasteis tarde 14 minutos; por lo tanto, habéis perdido 14 minutos de mi
+          tiempo.
 
-Amiya			... Lo siento, señora Ch'en, nos acabamos de enterar que Reunión está aquí... 
+Amiya			... Lo siento, señora Ch'en, nos acabamos de enterar que Reunión está aquí...
 
 Ch'en			Está bien, ya lo sé. Pero eso no es importante en este momento.
 			    ... ¿Quién es?
 
-Amiya			El Dr. {player_name} es el consultor de Rhodes Island. La Dr. Kal'tsit ya 
-          debería haberla informado.  
+Amiya			El Dr. {player_name} es el consultor de Rhodes Island. La Dr. Kal'tsit ya
+          debería haberla informado.
 
 Ch'en			Hmm...
 			    Bueno, ya que todo el mundo está aquí, ahora voy a necesitar que me sigas...
 
 Un agente de L.G.D. se pone al lado de Ch'en.
 
-L.G.D. Agente	  Señora Ch'en! ¡Es una emergencia! Los infectados... no lo son... 
+L.G.D. Agente	  Señora Ch'en! ¡Es una emergencia! Los infectados... no lo son...
 
 Ch'en			¡No te asustes!
-		    	¡Primer Escuadrón, en espera! Francotiradores, ponerse en posición! 
+		    	¡Primer Escuadrón, en espera! Francotiradores, ponerse en posición!
 
 Ciudadano		¿Que esta pasando?
 
 Infectado		¡Soltadme!
 
-Ch'en			Tch... ¿Qué esta pasando? Informe de la situación. 
+Ch'en			Tch... ¿Qué esta pasando? Informe de la situación.
 
-L.G.D. Agente	Algunos infectados... se niegan a ser acogidos en... Estamos... 
+L.G.D. Agente	Algunos infectados... se niegan a ser acogidos en... Estamos...
 
 Ch'en			Puedo ver que...
 			    Olvídalo.
 			    Detención de todos ellos.
-		    	Dispersar a la multitud de inmediato. Abra las puertas en 30 minutos después 		
+		    	Dispersar a la multitud de inmediato. Abra las puertas en 30 minutos después
           de finalizar el proceso de revisión.
-		    	Además, empuje la línea de inspección de cuarentena 40 metros hacia 			
+		    	Además, empuje la línea de inspección de cuarentena 40 metros hacia
           adelante.
-		    	Aparte de usted y el Dr. {player_name}, el resto de Rhodes Island se quedará 		
+		    	Aparte de usted y el Dr. {player_name}, el resto de Rhodes Island se quedará
           aquí y ayudará con la seguridad fronteriza. Los dos, vengan conmigo.
-		     	Si tu grupo no puede manejar una tarea tan trivial, no podré asignarte ninguna 	
+		     	Si tu grupo no puede manejar una tarea tan trivial, no podré asignarte ninguna
           misión.
-	    		PC94172, organizar un poco de trabajo para estas personas. No quiero ver 			
-          más problemas esta noche. 
+	    		PC94172, organizar un poco de trabajo para estas personas. No quiero ver
+          más problemas esta noche.
 
 L.G.D. Agente	    ¡Entendido, señora!
-			            A todos, me gustaría que... 
+			            A todos, me gustaría que...
 
 Amiya y el Doctor siguen al agente de L.G.D.
 
 
 
 Amiya			…
-		    	(La señora Ch'en es muy dura... ella es más estricta de lo que imaginaba...) 
+		    	(La señora Ch'en es muy dura... ella es más estricta de lo que imaginaba...)
 
 Doctor			...(Cabecea)
 
@@ -189,10 +187,10 @@ Amiya			oh...
 		    	Gracias por sus elogios, señora.
 
 Ch'en			Sin embargo...
-		    	Después del incidente de Chernobog, ha habido una oleada masiva de 		
+		    	Después del incidente de Chernobog, ha habido una oleada masiva de
           refugiados en Lungmen.
-		    	Los infectados ya deben saber cuáles son las consecuencias de entrar en 	
-          Lungmen. 
+		    	Los infectados ya deben saber cuáles son las consecuencias de entrar en
+          Lungmen.
 
 Ch'en lleva a Amiya y al Doctor al centro de gobierno de Lungmen.
 
@@ -202,13 +200,13 @@ Ch'en lleva a Amiya y al Doctor al centro de gobierno de Lungmen.
 Amiya			Dr. Kal'tsit...!
 
 Ch'en			El representante de Rhodes Island ya se ha reunido con el jefe Wei.
-	    		Por favor esperar aquí.	
-		    	Os avisare en breve. 
+	    		Por favor esperar aquí.
+		    	Os avisare en breve.
 
 Amiya			Ufff... es muy difícil hablar con ella.
-    			Dr.{player_name}, a partir de aquí, el Dr. Kal'tsit se encargará de las 			
+    			Dr.{player_name}, a partir de aquí, el Dr. Kal'tsit se encargará de las
           negociaciones.
-		    	Por favor, tenga confianza en ella. 
+		    	Por favor, tenga confianza en ella.
 
 
 
@@ -219,7 +217,7 @@ Amiya			Ufff... es muy difícil hablar con ella.
 
 Ch'en			Entrar
 
-				Amiya y el Doctor entran en la oficina de Wei Yenwu, con quien Kal'tsit está hablando. 
+				Amiya y el Doctor entran en la oficina de Wei Yenwu, con quien Kal'tsit está hablando.
 
 Amiya			¡...Dr. Kal'tsit!
 
@@ -232,23 +230,23 @@ Ch'en cierra la puerta
 Doctor			...
 
 Ch'en			Ejem.
-			Jefe Wei, los otros dos representantes de Rhodes Island también han llegado. 
+			Jefe Wei, los otros dos representantes de Rhodes Island también han llegado.
 
 Wei Yenwu		Ah, excelente.
-			Por favor, tome asiento. La Sra. Kal'tsit me está explicando la situación. 
+			Por favor, tome asiento. La Sra. Kal'tsit me está explicando la situación.
 
-Kal'tsit		Permítanme continuar entonces. Señor Wei, confío en que ya tenga una buena 			
-			comprensión de la situación. 
+Kal'tsit		Permítanme continuar entonces. Señor Wei, confío en que ya tenga una buena
+			comprensión de la situación.
 
 
 					Imagen/pantallla noticias “seven royal guards injured in riots”
 
 
-Kal'tsit		Actualmente, la red de información Lungmen obtiene mucha información 			
-			sobre el Movimiento de Reunión. Es bueno que reconozca la importancia de 			
+Kal'tsit		Actualmente, la red de información Lungmen obtiene mucha información
+			sobre el Movimiento de Reunión. Es bueno que reconozca la importancia de
 			esto.
-			Pero esto por sí solo no es suficiente. Lungmen todavía carece de información  			
-			clave. 
+			Pero esto por sí solo no es suficiente. Lungmen todavía carece de información
+			clave.
 
 
 					Backgorund/Techo oficina Wei Yenwu
@@ -256,31 +254,31 @@ Kal'tsit		Actualmente, la red de información Lungmen obtiene mucha información
 
 Ch'en			...
 
-Kal'tsit		Creo que el L.G.D. sabe muy bien que esta simple cuarentena no es suficiente 		
+Kal'tsit		Creo que el L.G.D. sabe muy bien que esta simple cuarentena no es suficiente
 			para contener a Reunión.
-			Reunión no pasará obedientemente por las inspecciones, ni esperarán a que 			
+			Reunión no pasará obedientemente por las inspecciones, ni esperarán a que
 			las autoridades tomen la iniciativa. Por eso...
-			Sin la ayuda de Rhodes Island, Lungmen sufrirá grandes pérdidas contra 				
-			Reunión si decide seguir las mismas estrategias contra los infectados. 
+			Sin la ayuda de Rhodes Island, Lungmen sufrirá grandes pérdidas contra
+			Reunión si decide seguir las mismas estrategias contra los infectados.
 
 Ch'en			Perdonen la interrupción.
-			El L.G.D. entiende las defensas de Lungmen mejor que Rhodes Island. Ya 		
-			hemos hecho preparativos para hacer frente a la posible infiltración de 		
+			El L.G.D. entiende las defensas de Lungmen mejor que Rhodes Island. Ya
+			hemos hecho preparativos para hacer frente a la posible infiltración de
 			Reunión.
-			Nosotros, sin embargo, no estamos obligados a proporcionarle información 	
-			confidencial sobre nuestras operaciones. 
+			Nosotros, sin embargo, no estamos obligados a proporcionarle información
+			confidencial sobre nuestras operaciones.
 
 Wei Yenwu		...
 			Señorita Kal'tsit, por favor continue.
 
-Kal'tsit		Si bien es cierto que Lungmen ha tenido éxito en el tratamiento de infectados 		
-			desarmados hasta ahora, usted no ha tratado con esta escala de disturbios 		
+Kal'tsit		Si bien es cierto que Lungmen ha tenido éxito en el tratamiento de infectados
+			desarmados hasta ahora, usted no ha tratado con esta escala de disturbios
 			organizados antes. Esto puede resultar en pérdidas innecesarias.
-			Desde nuestra experiencia... Sólo los infectados son capaces de contrarrestar a 	
-			los infectados. 
+			Desde nuestra experiencia... Sólo los infectados son capaces de contrarrestar a
+			los infectados.
 
-Wei Yenwu		A mi entender, Rhodes Island es tan especializados en la lucha contra 		
-			reunión? 
+Wei Yenwu		A mi entender, Rhodes Island es tan especializados en la lucha contra
+			reunión?
 
 
 					Imagen/silueta de operadores y detrás el símbolo de Rodes Island
@@ -289,49 +287,49 @@ Wei Yenwu		A mi entender, Rhodes Island es tan especializados en la lucha contra
 Kal'tsit		Tenemos experiencia, pero yo no lo llamaría especialidad.
 
 Wei Yenwu		¿oh...?
-			Me han dicho que Rhodes Island estuvo involucrado con el incidente de 	
-			Chernobog, y logró obtener mucha información sobre reunión. 
+			Me han dicho que Rhodes Island estuvo involucrado con el incidente de
+			Chernobog, y logró obtener mucha información sobre reunión.
 
 Kal'tsit		No importa de dónde hayas escuchado eso...
-			En esta fase, esa información no está en fase de intercambio. No es más que 	
-			una parte de nuestro currículum, una calificación que nos permite hablar con 
-			usted, señor Wei. 
+			En esta fase, esa información no está en fase de intercambio. No es más que
+			una parte de nuestro currículum, una calificación que nos permite hablar con
+			usted, señor Wei.
 
-Wei Yenwu		Es Lungmen es el que decidirá si intercambiamos o no información. Si 
+Wei Yenwu		Es Lungmen es el que decidirá si intercambiamos o no información. Si
 			Rhodes Island ni siquiera puede proporcionarnos este nivel de información...
 			Hah.
-			En ese caso, simplemente no tenemos ninguna base para confiar en sus 	
-			capacidades. 
+			En ese caso, simplemente no tenemos ninguna base para confiar en sus
+			capacidades.
 
 					Backgorund/Techo oficina Wei Yenwu
 
 
-Kal'tsit		Señor Wei, pido disculpas si mis palabras no han sido lo suficientemente 	
+Kal'tsit		Señor Wei, pido disculpas si mis palabras no han sido lo suficientemente
 			claras.
-			Lo que debo enfatizar es... la única razón por la que Rhodes Island tiene esta 		
-			información, es porque éramos lo suficientemente fuertes como para 		
-			obtenerla. 
+			Lo que debo enfatizar es... la única razón por la que Rhodes Island tiene esta
+			información, es porque éramos lo suficientemente fuertes como para
+			obtenerla.
 
-Ch'en			Cual sea el caso, Lungmen no puede simplemente confiar en otro grupo de 		
-			infectados. 
+Ch'en			Cual sea el caso, Lungmen no puede simplemente confiar en otro grupo de
+			infectados.
 
-Kal'tsit		Señorita Ch'en, si usted cree que el castigo a los infectados es más importante 	
+Kal'tsit		Señorita Ch'en, si usted cree que el castigo a los infectados es más importante
 			que la seguridad real de Lungmen ...
-			Entonces me entregaré inmediatamente de acuerdo con sus leyes locales. 		
+			Entonces me entregaré inmediatamente de acuerdo con sus leyes locales.
 			Luego, suspiraré desde mi cárcel mientras veo a Reunión quemar su ciudad.
-			Esta vez, Lungmen no tiene otra opción. 
+			Esta vez, Lungmen no tiene otra opción.
 
 Ch'en			Sus buenas intenciones no se pierden sobre nosotros a pesar de su grosería.
-			Sin embargo, tampoco somos una organización benéfica para grupos de 		
-			interés inútiles. 
+			Sin embargo, tampoco somos una organización benéfica para grupos de
+			interés inútiles.
 
 Wei Yenwu		Señorita Ch'en
 
-Ch'en			Jefe Wei, creo que es inapropiado que estos forasteros se involucren con los 	
-			asuntos confidenciales de Lungmen. 
+Ch'en			Jefe Wei, creo que es inapropiado que estos forasteros se involucren con los
+			asuntos confidenciales de Lungmen.
 
 Wei Yenwu		Cálmese, señora Ch'en. Siguen siendo nuestros huéspedes.
-			... Mis invitados. 
+			... Mis invitados.
 
 Ch'en			...
 			Muy bien
@@ -341,13 +339,13 @@ Yei Yenwu		Ah, perdóname. Me acabo de acordar...
 			Así es. hmm...
 			Hay una cosa que me importa.
 			Su habilidad.
-			A mi entender, Rhodes Island también está ayudando con la supresión de los 	
+			A mi entender, Rhodes Island también está ayudando con la supresión de los
 			infectados cercanos?
-			Señora Ch'en, basándose en su mejor información, ¿cómo evaluaría las 			
-			habilidades de combate de Rhodes Island? 
+			Señora Ch'en, basándose en su mejor información, ¿cómo evaluaría las
+			habilidades de combate de Rhodes Island?
 
 Ch'en			... Permítanme describir lo que he presenciado de las operaciones de Rhodes Island.
-			Aquí están los detalles... 
+			Aquí están los detalles...
 
 
 
@@ -357,33 +355,33 @@ Ch'en			... Permítanme describir lo que he presenciado de las operaciones de Rh
 					Background techo oficina Wei Yenwu
 
 
-Ch'en			... Y con esto concluye mi informe de las operaciones de combate de Rhodes Island. 
+Ch'en			... Y con esto concluye mi informe de las operaciones de combate de Rhodes Island.
 
-Wei Yenwu		¿Y su evaluación? 
+Wei Yenwu		¿Y su evaluación?
 
 Ch'en			Hay pocas razones para dudar de su fuerza.
-			Sin embargo, jefe Wei, dadas sus identidades, creo que desde un punto de vista 	
+			Sin embargo, jefe Wei, dadas sus identidades, creo que desde un punto de vista
 			estratégico...
-			... el L.G.D. es más que capaz de manejar el trabajo. 
+			... el L.G.D. es más que capaz de manejar el trabajo.
 
-Wei Yenwu		Cuando se trata de combatir el crimen y prevenir la infiltración, el L.G.D. es más que 		
+Wei Yenwu		Cuando se trata de combatir el crimen y prevenir la infiltración, el L.G.D. es más que
 			suficiente.
 			Rhodes Island puede ser capaz de traer más a la mesa. sin embargo...
-			De las cosas que Rhodes Island ha solicitado, hay un "artículo" que no estamos 		
+			De las cosas que Rhodes Island ha solicitado, hay un "artículo" que no estamos
 			dispuestos a intercambiar en función de lo que se ha ofrecido.
-			La cooperación temporal de defensa que está proporcionando está lejos de tener el 	
-			mismo valor. Tal como están las cosas, su "precio de venta" es un poco demasiado 	
+			La cooperación temporal de defensa que está proporcionando está lejos de tener el
+			mismo valor. Tal como están las cosas, su "precio de venta" es un poco demasiado
 			alto.
-			Señorita Kal'tsit, señorita Amiya, espero que ambas lo entiendan. 
+			Señorita Kal'tsit, señorita Amiya, espero que ambas lo entiendan.
 
-Kal'tsit 		Señor Wei, una defensa temporal no será suficiente. Hay muchas cosas sobre Reunión 	
+Kal'tsit 		Señor Wei, una defensa temporal no será suficiente. Hay muchas cosas sobre Reunión
 			que no sabes.
-			Sobre la base de los datos que recopilamos mientras los combatíamos, si no se toman 		
-			medidas proactivas, Reunion tomará el control de Lungmen dentro de dos semanas. 
+			Sobre la base de los datos que recopilamos mientras los combatíamos, si no se toman
+			medidas proactivas, Reunion tomará el control de Lungmen dentro de dos semanas.
 
-Ch'en			... tonterías. No hay evidencia de eso–– 
+Ch'en			... tonterías. No hay evidencia de eso––
 
-Kal'tsit		Señora Ch'en, ¿le gustaría saber la verdadera razón por la que Chernobog cayó dentro 	
+Kal'tsit		Señora Ch'en, ¿le gustaría saber la verdadera razón por la que Chernobog cayó dentro
 			de una noche?
 
 Ch'en			…
@@ -393,19 +391,19 @@ Wei Yenwu		Por favor, explíquese.
 Kal'tsit		Amiya.
 
 Amiya			ah... segura.
-			Rhodes Island no solo estuvo involucrada en el incidente de Chernobog... También 
-			fuimos atrapados dentro de la Catástrofe, y sobrevivimos. 
+			Rhodes Island no solo estuvo involucrada en el incidente de Chernobog... También
+			fuimos atrapados dentro de la Catástrofe, y sobrevivimos.
 
 Wei Yenwu		Impresionante, impresionante.
-			No todos los días me encuentro con alguien lo suficientemente loco como para haber 	
-			salido vivo de una Catástrofe. Señorita Amiya, por favor continúe, estoy escuchando. 
+			No todos los días me encuentro con alguien lo suficientemente loco como para haber
+			salido vivo de una Catástrofe. Señorita Amiya, por favor continúe, estoy escuchando.
 
 Amiya			… Luchamos contra la líder de Reunion.
 
 Ch'en			...
 
 Wei Yenwu		¿hmm? ¿Cómo se llama de nuevo?
-			No lo recuerdo claramente... 
+			No lo recuerdo claramente...
 
 Doctor			Talulah
 
@@ -418,99 +416,99 @@ Ch'en			…
 
 					Background se desvanece hacia fuera y hacia adentro
 
-Amiya			... Esto es lo que le sucedió a Rhodes Island en Chernobog. A pesar de que Reunión 
+Amiya			... Esto es lo que le sucedió a Rhodes Island en Chernobog. A pesar de que Reunión
 			logró arrebatar el control de Chernobog a Ursus...
-			Pero para expandirse, tendrán que lidiar con su escasez de recursos. Lungmen será su 		
+			Pero para expandirse, tendrán que lidiar con su escasez de recursos. Lungmen será su
 			próximo peldaño.
-			A pesar de que usted podría ser capaz de defenderse de ellos por un tiempo, sus 	
+			A pesar de que usted podría ser capaz de defenderse de ellos por un tiempo, sus
 			ataques no cesarán a menos que maneje esta situación de forma proactiva.
-			además... Hay otro factor desconocido : todavía no sabemos cómo responderá Ursus 	
-			después de perder Chernobog ... 
+			además... Hay otro factor desconocido : todavía no sabemos cómo responderá Ursus
+			después de perder Chernobog ...
 
 Wei Yenwu		Jajaja... Bien hablado, jovencita.
-			Debido a la gravedad de esta amenaza y la limitada mano de obra de L.G.D., no me 	
-			opongo a considerar este acuerdo temporal basado en los términos que se detallaron 	
+			Debido a la gravedad de esta amenaza y la limitada mano de obra de L.G.D., no me
+			opongo a considerar este acuerdo temporal basado en los términos que se detallaron
 			anteriormente.
-			Pero lo que dije antes todavía se mantiene... 
+			Pero lo que dije antes todavía se mantiene...
 
 Kal'tsit		...
 			...¿El precio de venta de Rhodes Island sigue siendo demasiado alto?
 
 Wei Yenwu		Correcto.
-			Con el fin de asegurarse de que Lungmen es compensado adecuadamente, tengo dos 		
+			Con el fin de asegurarse de que Lungmen es compensado adecuadamente, tengo dos
 			condiciones muy simples.
-			Primero, Rhodes Island ayudará al L.G.D. a suprimir la amenaza de la Reunión. Esto 	
-			incluye la identificación de amenazas dentro de Lungmen, así como las relacionadas 	
+			Primero, Rhodes Island ayudará al L.G.D. a suprimir la amenaza de la Reunión. Esto
+			incluye la identificación de amenazas dentro de Lungmen, así como las relacionadas
 			con las consecuencias de Chernobog.
-			Esto también incluye evaluar el grado en que los infectados se han infiltrado en 	
-			Lungmen. Espero que comparta cualquier información potencialmente útil con 			
-			nosotros. 
+			Esto también incluye evaluar el grado en que los infectados se han infiltrado en
+			Lungmen. Espero que comparta cualquier información potencialmente útil con
+			nosotros.
 
 Kal'tsit		¿Cuál es la segunda condición, entonces?
 
 
 Wei Yenwu		Te contaré sobre la segunda condición después de que hayas satisfecho la primera.
-			Naturalmente, no pediré nada fuera del área de experiencia de Rhodes Island. 
+			Naturalmente, no pediré nada fuera del área de experiencia de Rhodes Island.
 
-Kal'tsit		No estoy segura de entender. ¿Podría dar más detalles, señor Wei? 
+Kal'tsit		No estoy segura de entender. ¿Podría dar más detalles, señor Wei?
 
-Wei Yenwu		¿Cómo debo poner esto... Si reunión causa daños que superan las estimaciones de 	
+Wei Yenwu		¿Cómo debo poner esto... Si reunión causa daños que superan las estimaciones de
 			Rhodes Island ...
-			Espero que usted ayude a la L.G.D. a manejar la situación, que puede incluir la 	
-			gestión post-desastre. Por supuesto, nada más allá de sus capacidades. Esa es más o 		
-			menos la esencia de la misma. 
+			Espero que usted ayude a la L.G.D. a manejar la situación, que puede incluir la
+			gestión post-desastre. Por supuesto, nada más allá de sus capacidades. Esa es más o
+			menos la esencia de la misma.
 
 Kal'tsit			...
 
-Wei Yenwu		No puedo decir mucho más en este momento. Sin embargo, no lo olvides, Rhodes 	
+Wei Yenwu		No puedo decir mucho más en este momento. Sin embargo, no lo olvides, Rhodes
 			Island no tiene otra opción.
-			Si no puede aceptar nuestros términos, entonces todas las condiciones que discutimos, 	
-			así como sus solicitudes, serán... 
+			Si no puede aceptar nuestros términos, entonces todas las condiciones que discutimos,
+			así como sus solicitudes, serán...
 
 Kal'tsit		¿Amiya?
 
 Amiya			Dr. Kal'tsit...
 			Señor Wei, me gustaría añadir una cláusula más al acuerdo...
-			"Cualquier interpretación de las cláusulas debe ser acordada por ambas partes". 
-			¿Es esto aceptable? 
+			"Cualquier interpretación de las cláusulas debe ser acordada por ambas partes".
+			¿Es esto aceptable?
 
 Wei Yenwu		oh... Claro. Puedo ver su respeto a Lungmen, señorita Amiya.
-			Señora Ch'en, ¿tiene usted alguna objeción? 
+			Señora Ch'en, ¿tiene usted alguna objeción?
 
 Ch'en			…Acepto esta operación.
 
 Wei Yenwu		Hah.
-			Parece que la señora Ch'en también tiene su propio objetivo ahora. 
+			Parece que la señora Ch'en también tiene su propio objetivo ahora.
 
 Ch'en			…
 
-Wei Yenwu		En cualquier caso, enhorabuena. Te has ganado la confianza de Lungmen. Señora 
+Wei Yenwu		En cualquier caso, enhorabuena. Te has ganado la confianza de Lungmen. Señora
 			Ch'en será responsable de sus trabajos.
-			Sin embargo, tenga en cuenta que a los infectados no se les permite moverse 		
+			Sin embargo, tenga en cuenta que a los infectados no se les permite moverse
 			libremente dentro de la ciudad, ya que eso puede causar pánico.
 
 Background negro
 
 Wei Yenwu		Espero que se aferres a las órdenes de la L.G.D. mientras llevas a cabo tus funciones.
 			Sobre todo, las órdenes de la señora Ch'en.
-			Lungmen estará abierto a Rhodes Island, siempre y cuando sus acciones estén en línea 	
-			con nosotros. 
+			Lungmen estará abierto a Rhodes Island, siempre y cuando sus acciones estén en línea
+			con nosotros.
 
 Background Cuarentena de Lungmen
 
 Amiya			Ufff... ¡Ugh...! Ese hombre era tan difícil...
-			Era tan metódico cuando hablaba, y sentía que no podía ser influenciado por nada... 
+			Era tan metódico cuando hablaba, y sentía que no podía ser influenciado por nada...
 
 Kal'tsit		Amiya, eventualmente tendrás que aprender a lidiar con estas personas tú misma.
-			Pero al final, hiciste un gran trabajo. 
+			Pero al final, hiciste un gran trabajo.
 
 Amiya			Ehehe...
 
 Kal'tsit		A propósito...
 			...
-			tú... 
+			tú...
 
-Doctor			¿Nos conocemos, Kal'tsit? / ... Hola, Dr. Kal'tsit. / Un placer conocerte, Dr. Kal'tsit. 
+Doctor			¿Nos conocemos, Kal'tsit? / ... Hola, Dr. Kal'tsit. / Un placer conocerte, Dr. Kal'tsit.
 
 Kal'tsit		... ...
 
@@ -523,7 +521,7 @@ Amiya			...
 Kal'tsit		Haah...
 			Espero que nuestros sacrificios... no fueron en vano.
 			Hola, Dr {player_name}.
-			Bienvenido. 
+			Bienvenido.
 
 
 
@@ -533,7 +531,7 @@ Kal'tsit		Haah...
 
 
 
-					Background callejón de Lungmen 
+					Background callejón de Lungmen
 
 
 
@@ -542,7 +540,7 @@ Kal'tsit		Haah...
 			Toma esto... Esto es para ti.
 			Este es un amuleto protector. Mi madre me enseñó a estos...
 			Y esta es uno que hice.
-			Cuando haces estas muñecas a mano, puedes mantener seguras los que te importan. 
+			Cuando haces estas muñecas a mano, puedes mantener seguras los que te importan.
 
 Childern		Bien, hermana Misha, ¡lo cuidaremos bien!
 
@@ -561,9 +559,9 @@ Children		¡Vale!
 
 
 
-Roiter			¿A dónde iría?  ! ¡Tras ellos! Vamos a ver hasta dónde pueden correr los 					
+Roiter			¿A dónde iría?  ! ¡Tras ellos! Vamos a ver hasta dónde pueden correr los
 			infectados!
-			¿hmm? Ahora... ¿qué tenemos aquí? 
+			¿hmm? Ahora... ¿qué tenemos aquí?
 
 
 
@@ -571,18 +569,18 @@ Roiter			¿A dónde iría?  ! ¡Tras ellos! Vamos a ver hasta dónde pueden corr
 
 
 
-Amiya			Según los datos de Exusiai, nuestro objetivo de la misión debería haberse quedado 			
+Amiya			Según los datos de Exusiai, nuestro objetivo de la misión debería haberse quedado
 			en algún lugar por aquí ...
-			Argh, el terreno por aquí es realmente complicado. Si estuviéramos haciendo esto 			
+			Argh, el terreno por aquí es realmente complicado. Si estuviéramos haciendo esto
 			solos, esta tarea podría haber sido bastante problemática...
 			Por suerte, me puse en contacto con Penguin Logistics de antemano...
 			... ¿Quién está ahí?
-			¡Esas personas son...! 
+			¡Esas personas son...!
 
-Child			¡Malos! Usted montón de malos! ¡Suéltame! dejar... ¡ir...! 
+Child			¡Malos! Usted montón de malos! ¡Suéltame! dejar... ¡ir...!
 
 Rioter			¡Dime! ¿A dónde se a ido?
-			¡Deja de jugar tonto! 
+			¡Deja de jugar tonto!
 
 Amiya			…
 
@@ -590,15 +588,15 @@ Rioter			¿quien es?
 			¡Vuelve aquí!
 
 Amiya			...
-			... Debes irte ahora mismo si sabes lo que es bueno para ti. 
+			... Debes irte ahora mismo si sabes lo que es bueno para ti.
 
 Rioter			...?!
 			¡¿Quién demonios...?!
 			¡No te gusta que seas de aquí! #corregir? “You don't like you're from around here!”
-			No nos tienes miedo... 
- 
- 
-					Amiya usa su Arts para asustar a los alborotadores. 
+			No nos tienes miedo...
+
+
+					Amiya usa su Arts para asustar a los alborotadores.
 
 
 Amiya			De lo contrario...
@@ -607,9 +605,9 @@ Rioter			¿eh?
 			Gaaah!!
 			¿que-qué era eso?
 			¡arts! E-ella está usando Arts?!
-			Aaaargh! ¡Aléjate de mí! 
+			Aaaargh! ¡Aléjate de mí!
 
-Amiya			... No volváis a acosar a los indefensos nunca más. 
+Amiya			... No volváis a acosar a los indefensos nunca más.
 
 Rioter			Aaaagh! ¡Monstruo!
 
@@ -621,8 +619,8 @@ Amiya			Heh... mosntruo, ¿eh?
 			…
 			Todo estará bien. Puedes salir ahora.
 			Es peligroso estar aquí. Debes darte prisa y encontrar algún lugar seguro.
-			
-Children		¡Gracias, señora! 
+
+Children		¡Gracias, señora!
 
 Amiya			¡Cuídate!
 
@@ -637,35 +635,35 @@ Amiya			Hm, e visto un infectado ahora, probablemente no registrado
 Franka			¿De Ursus?
 
 Amiya			Sí. Se dirigía a lo profundo de los barrios marginales.
-			Franka, reúne a los operadores cercanos. 
+			Franka, reúne a los operadores cercanos.
 
 Franka			De acuerdo
 
 Amiya			Cuanto más nos dirijamos a los barrios marginales, más difíciles serán las cosas...
 			Hay civiles comunes, criminales y refugiados, todos mezclados.
-			Tendremos que hacer preparativos a fondo. 
+			Tendremos que hacer preparativos a fondo.
 
 Liskarm			Amiya, tenemos comunicaciones entrantes.
 			Por favor, espere un segundo.
 			...
 			Así es.
-			Amiya, es el L.G.D. 
+			Amiya, es el L.G.D.
 
-Amiya			¿Que pasa señora Ch'en? 
+Amiya			¿Que pasa señora Ch'en?
 
 Liskarm			En efecto.
 			... Así es. Ya hemos encontrado un número de infectados no registrados.
 			... Sí.
 			... ¿Qué?
-			... Estamos tras una chica Ursus, de pelo corto y blanco, altura de unos 145 cm, 	
-			¿llamada Misha? 
+			... Estamos tras una chica Ursus, de pelo corto y blanco, altura de unos 145 cm,
+			¿llamada Misha?
 
-Amiya			¿Es decir...? 
+Amiya			¿Es decir...?
 
 Liskarm		... entendido.
-			Amiya, la señora Ch'en quiere que busquemos inmediatamente a los infectados que 		
+			Amiya, la señora Ch'en quiere que busquemos inmediatamente a los infectados que
 			acabamos de describir.
-			Una vez que la encontremos, debemos entregarla al L.G.D. inmediatamente. 
+			Una vez que la encontremos, debemos entregarla al L.G.D. inmediatamente.
 
 Amiya			¿Puedo hablar con ella por favor?
 			Hola, Hola...
@@ -673,40 +671,40 @@ Amiya			¿Puedo hablar con ella por favor?
 
 Ch'en			Te escucho.
 
-Amiya			¿Puedo confirmar la validez de esa orden? 
+Amiya			¿Puedo confirmar la validez de esa orden?
 
-Ch'en			100% válido, efectivo inmediatamente. 
+Ch'en			100% válido, efectivo inmediatamente.
 
 Amiya			Ya veo.
 
 						Ch'en cuelga
 
 Amiya			...
-			De repente colgó... 
+			De repente colgó...
 
-Franka			Esa Ch'en, ella tiene un poco de temperamento. 
+Franka			Esa Ch'en, ella tiene un poco de temperamento.
 
-Amiya			Así que esta va a ser nuestra misión por ahora... 
+Amiya			Así que esta va a ser nuestra misión por ahora...
 
 Liskarm			Amiya, acabo de recibir otro mensaje de varios defensores.
-			Conocieron a algunos individuos que eran abiertamente hostiles a los operadores de 		
+			Conocieron a algunos individuos que eran abiertamente hostiles a los operadores de
 			Rhodes Island.
 			Además, esos atacantes no eran gente común, eran... infectado.
 
 Amiya			... Que los defensores retrocedan hacia nosotros.
-			Equipo scout! Nuestro objetivo es una chica ursusiana de pelo corto y blanco, 				
+			Equipo scout! Nuestro objetivo es una chica ursusiana de pelo corto y blanco,
 			altura de 145 cm. ¡Recordar permanecer ocultos y manteneros a salvo!
-			Otros operadores, sigan a sus líderes y se extiendan. #dudas “spread out” 
+			Otros operadores, sigan a sus líderes y se extiendan. #dudas “spread out”
 
-Doctor			Lo mejor sería detenerlos. / Así que estamos... va a atraerlos en? / Franka, vamos a acarlos de frente. 
+Doctor			Lo mejor sería detenerlos. / Así que estamos... va a atraerlos en? / Franka, vamos a acarlos de frente.
 
 Franka			eh... Bien.
-			Liskarm, este niño es bastante inteligente 
+			Liskarm, este niño es bastante inteligente
 
-Liskarm			... El Dr. {player_name} es nuestro comandante táctico. Usted debe tomar esto más en serio. 
+Liskarm			... El Dr. {player_name} es nuestro comandante táctico. Usted debe tomar esto más en serio.
 
 Amiya			Empecemos.
-			Así que... Rhodes Island tiene que luchar contra los infectados de nuevo... 
+			Así que... Rhodes Island tiene que luchar contra los infectados de nuevo...
 
 
 						Despues de la operacion
@@ -728,29 +726,29 @@ Amiya			…
 
 Misha			...¿Que?
 
-				
+
 				Background se desenfoca de fuera a dentro
 
 
 Misha			...
 
 Amiya			Lo siento, señorita Misha. Espero no asustarte...
-			Estas son mis amigas, Franka y Liskarm. 
+			Estas son mis amigas, Franka y Liskarm.
 
 Franka			Hola
 
 Liskarm			Buenos dias #no se como traducir estos saludos F;”Hey there”, L;”Good day”
 
-Amiya			Somos de Rhodes Island Pharmaceuticals. Como organización hecha para servir a 		
+Amiya			Somos de Rhodes Island Pharmaceuticals. Como organización hecha para servir a
 			los Infectados, al menos...
-			Esperamos poder ayudarte. Por eso nos gustaría hablar un poco. 
+			Esperamos poder ayudarte. Por eso nos gustaría hablar un poco.
 
 Misha			¿Hablar?
 
 Amiya			Mhm.
 			Este no es el mejor lugar para eso, aunque...
 			A partir de ahora, nuestra principal prioridad es mantenerte segura.
-			Por el momento, te protegeremos, así que ten la seguridad. 
+			Por el momento, te protegeremos, así que ten la seguridad.
 
 Misha			Qué... Estás hablando de...
 			...
@@ -759,59 +757,59 @@ Misha			Qué... Estás hablando de...
 
 Amiya			...Pffft
 
-Misha			De qué te estás riendo... 
+Misha			De qué te estás riendo...
 
-Franka			Si realmente íbamos a capturarte, no te habríamos dado la oportunidad de resistirte. 
+Franka			Si realmente íbamos a capturarte, no te habríamos dado la oportunidad de resistirte.
 
 Misha			…
 
-Amiya			Señorita Misha, realmente queremos ayudarte, así que... 
+Amiya			Señorita Misha, realmente queremos ayudarte, así que...
 
 Misha			No confío en ti...
 			¡Lungmen trata a los infectados peor de lo que tratan a los criminales!
-			¿Por qué lo harías...? ¿Por qué harías todo lo posible para ayudar a los infectados? 
+			¿Por qué lo harías...? ¿Por qué harías todo lo posible para ayudar a los infectados?
 
 Amiya			...
-			––Señorita Misha, mira... 
+			––Señorita Misha, mira...
 
 Misha			Qué... ¿está haciendo?
 			... usted...
 			Tu mano...
-			Tú también estás... Infectada? 
+			Tú también estás... Infectada?
 
 Amiya			Así es, soy como tú.
-			Hay muchos infectados en estos barrios marginales. Esos niños que acabas de dejar 	
+			Hay muchos infectados en estos barrios marginales. Esos niños que acabas de dejar
 			atrás... confiaron en ti.
-			Misha, ya los has puesto en peligro. 
+			Misha, ya los has puesto en peligro.
 
-Misha			... ¿Vas a usar a esos niños para amenazarme? 
+Misha			... ¿Vas a usar a esos niños para amenazarme?
 
 Amiya			No, no lo haría. Pero alguien ya ha empezado a hacer exactamente eso...
-			Acabamos de perseguir a un grupo de matones que estaba tratando de amenazar a 		
+			Acabamos de perseguir a un grupo de matones que estaba tratando de amenazar a
 			esos niños.
 
 Misha			...!
 
-Amiya			Lungmen también está buscando a los infectados. Si Lungmen te encontró primero, 	
+Amiya			Lungmen también está buscando a los infectados. Si Lungmen te encontró primero,
 			podría haber sido ya demasiado tarde.
 			Queríamos desviar a los alborotadores de esos niños llamando su atención sobre ti...
-			Mirándolo desde otra perspectiva, también podríamos mantenerte a salvo de los daños. 	
+			Mirándolo desde otra perspectiva, también podríamos mantenerte a salvo de los daños.
 
 Misha			...¿Sabes por qué me persiguen?
-			¿Qué razón tienen... para hacer todo esto por mí? 
+			¿Qué razón tienen... para hacer todo esto por mí?
 
 Amiya			En realidad no sabemos por qué hay infectados persiguiéndote...
-			Pero nos preocupamos por la seguridad de los inocentes, incluyéndote a ti. Al 		
-			menos, este es el mejor curso de acción por el momento. Espero que seas capaz de 			
+			Pero nos preocupamos por la seguridad de los inocentes, incluyéndote a ti. Al
+			menos, este es el mejor curso de acción por el momento. Espero que seas capaz de
 			confiar en nosotros.
-			¿Nos permitirías sacarte de aquí primero? 
+			¿Nos permitirías sacarte de aquí primero?
 
 Misha			...
 			...Bien... Vayamos.
-			Después de todo, no tengo otra opción, ¿verdad? 
+			Después de todo, no tengo otra opción, ¿verdad?
 
 Amiya			Yo no diría eso...
-			Pero al menos, gracias... ¡Señorita Misha! 
+			Pero al menos, gracias... ¡Señorita Misha!
 
 
 
@@ -824,51 +822,51 @@ Amiya			Yo no diría eso...
 
 Background Lungmen edificio abandonado
 
-Amiya			-Eso concluye el informe, Señora Ch'en. 
+Amiya			-Eso concluye el informe, Señora Ch'en.
 
 Ch'en			Entendido.
-			El L.G.D. asegurará el punto de encuentro y esperaremos a que escolten al objetivo. 
+			El L.G.D. asegurará el punto de encuentro y esperaremos a que escolten al objetivo.
 
 Amiya			Entendido.
 			Franka, tráeme el mapa dibujado por el escuadrón de reconocimiento...
 			Bien, esto servirá.
 			Saldremos de los barrios bajos usando la ruta más corta.
-			(¿Alguna otra orden, Señora Ch'en?) 
+			(¿Alguna otra orden, Señora Ch'en?)
 
 Ch'en			Date prisa. No tenemos mucho tiempo. Cambio.
 			¡Formación! ¡¡No arrastren los pies!!
-			... 
+			...
 
 
 				Ch'en cuelga
 
 
 Amiya			...
-			...Uf, colgó... 
+			...Uf, colgó...
 
-Franka			En otras palabras, ¿tenemos que hacer recados para ella ahora? 
+Franka			En otras palabras, ¿tenemos que hacer recados para ella ahora?
 
-Amiya			Somos los que encontramos el objetivo después de todo... 
+Amiya			Somos los que encontramos el objetivo después de todo...
 
 Liskarm			(El L.G.D. nunca nos dio ninguna información detallada sobre el objetivo.)
-			Se suponía que íbamos a colaborar, pero de repente nos dijeron que el individuo que 		
+			Se suponía que íbamos a colaborar, pero de repente nos dijeron que el individuo que
 			encontramos tenía una utilidad importante para ellos.
-			Hay un montón de información crítica que no nos han dado. 
+			Hay un montón de información crítica que no nos han dado.
 
-Amiya			(...aunque no me sorprende que el L.G.D. nos guarde secretos.) 
+Amiya			(...aunque no me sorprende que el L.G.D. nos guarde secretos.)
 
-Liskarm			¿Por qué? 
-				
-Franka			¿No se supone que eres inteligente? ¿Qué bien haría la Isla de Rodas sabiendo 			
-			demasiado? 
+Liskarm			¿Por qué?
+
+Franka			¿No se supone que eres inteligente? ¿Qué bien haría la Isla de Rodas sabiendo
+			demasiado?
 
 Liskarm			Todo lo que sé es que saber demasiado poco es malo para la misión.
-			En cualquier caso, tendremos que escoltar a Misha al punto de encuentro primero. 
+			En cualquier caso, tendremos que escoltar a Misha al punto de encuentro primero.
 
 Amiya			Hmm, qué ruta tomar...
-			Tendremos que pedirles otro favor. 
+			Tendremos que pedirles otro favor.
 
-Liskarm			¿A quién? 
+Liskarm			¿A quién?
 
 Amiya			A Penguin Logistics.
 
@@ -877,72 +875,72 @@ Amiya			A Penguin Logistics.
 
 
 Exusiai			Hey, Rhodes Island~
-			¿Ya has terminado tu misión? ¿Qué piensas de nuestros servicios? 
+			¿Ya has terminado tu misión? ¿Qué piensas de nuestros servicios?
 
 Franka			Lo sabía...
-			*suspiro*... 
+			*suspiro*...
 
 Exusiai			Hey, no seas así~
-			¿Pasó algo malo? O, ¿has conocido a alguien que no te gusta? 
+			¿Pasó algo malo? O, ¿has conocido a alguien que no te gusta?
 
-Franka			Sí, tú. 
+Franka			Sí, tú.
 
-Liskarm			No hay necesidad de eso. Sin la información de Penguin Logistics, no habríamos 	
+Liskarm			No hay necesidad de eso. Sin la información de Penguin Logistics, no habríamos
 			sido capaces de reducir nuestra búsqueda...
-			Ni habríamos podido obtener información sobre la población infectada de Lungmen 
-			tan fácilmente. 
+			Ni habríamos podido obtener información sobre la población infectada de Lungmen
+			tan fácilmente.
 
-Exusiai			¡Por qué gracias por sus elogios, señorita! Está claro que tiene buen gusto. 
+Exusiai			¡Por qué gracias por sus elogios, señorita! Está claro que tiene buen gusto.
 
-Amiya			Exusiai, necesitaremos que encuentres una ruta relativamente segura para nosotros. 
+Amiya			Exusiai, necesitaremos que encuentres una ruta relativamente segura para nosotros.
 
 Exusiai			En ese caso, iré directamente al grano.
 			Hmm... Ninguna de estas rutas es particularmente buena.
-			¡Ah, vamos con esta! Err, mira este mapa aquí. Empezando por el centro de los 	
-			barrios bajos, dirígete a tres manzanas hacia el norte, y luego sigue este camino hacia 	
+			¡Ah, vamos con esta! Err, mira este mapa aquí. Empezando por el centro de los
+			barrios bajos, dirígete a tres manzanas hacia el norte, y luego sigue este camino hacia
 			el sur hasta llegar a la salida.
 			Esta debería ser la ruta más segura.
-			Aun así, probablemente haya suficientes enemigos en el camino como para hacer 		
-			unas cuantas fiestas de karaoke. 
+			Aun así, probablemente haya suficientes enemigos en el camino como para hacer
+			unas cuantas fiestas de karaoke.
 
 Amiya			¿Los enemigos?
 
 Liskarm			Parece que Reunión ya se ha infiltrado en Lungmen.
-			Señorita Exusiai, ¿puedo suponer que ya se ha hecho con la distribución de los 		
-			enemigos? 
+			Señorita Exusiai, ¿puedo suponer que ya se ha hecho con la distribución de los
+			enemigos?
 
-Exusiai			¡Mmhm! 
+Exusiai			¡Mmhm!
 
-Liskarm			Entonces, ¿cómo son sus movimientos? 
+Liskarm			Entonces, ¿cómo son sus movimientos?
 
-Exusiai			¡Vienen hacia ti! 
+Exusiai			¡Vienen hacia ti!
 
-Liskarm			... 
+Liskarm			...
 
-Franka			... 
+Franka			...
 
-Liskarm			Hemos sido rodeados. 
+Liskarm			Hemos sido rodeados.
 
 Amiya			Nuestra máxima prioridad es sacar a Misha a salvo.
-			Franka, cuento contigo para detener la emboscada enemiga. 
+			Franka, cuento contigo para detener la emboscada enemiga.
 
-Franka			Fácil. 
+Franka			Fácil.
 
-Amiya			Liskarm, divide el escuadrón defensor y cubre ambos lados. Te encargarás de 	
-			proteger a Misha. 
+Amiya			Liskarm, divide el escuadrón defensor y cubre ambos lados. Te encargarás de
+			proteger a Misha.
 
-Liskarm			No hay problema. 
+Liskarm			No hay problema.
 
-Exusiai			Oh, claro, ¿sabías que también hay algunos casters enemigos? 
+Exusiai			Oh, claro, ¿sabías que también hay algunos casters enemigos?
 
 Amiya			...Nghh...
 			Doctor, por favor, quédate cerca de mí.
 			Por favor, continúe comandando los escuadrones. Yo transmitiré sus órdenes.
-			... Intentemos seguir esta ruta más segura entonces. 
+			... Intentemos seguir esta ruta más segura entonces.
 
 
 
-						Después del combate 
+						Después del combate
 
 
 					Background Lungmen edificio abandonado
@@ -950,76 +948,75 @@ Amiya			...Nghh...
 
 Franka			¡Todo despejado!
 			Tenías razón... ¡Este grupo vino preparado!
-			¡Ustedes también deberían acelerar el paso! 
+			¡Ustedes también deberían acelerar el paso!
 
-Misha			*gasp*... ¿Quiénes son ustedes? *pant*... 
+Misha			*gasp*... ¿Quiénes son ustedes? *pant*...
 
-Amiya			¡Todos, por favor, muévanse más rápido! 
+Amiya			¡Todos, por favor, muévanse más rápido!
 
 Liskarm			Amiya, nos persiguen por detrás.
-			¿Tenemos tiempo para contraatacar? 
+			¿Tenemos tiempo para contraatacar?
 
 Amiya			No por el momento...
-			Es mejor tratar de deshacernos de ellos y evitar batallas innecesarias... 
+			Es mejor tratar de deshacernos de ellos y evitar batallas innecesarias...
 
 Liskarm			Olvídate del tema de la seguridad...
-			Necesitamos una ruta que nos lleve fuera de los barrios bajos hasta Madam Ch'en lo 		
+			Necesitamos una ruta que nos lleve fuera de los barrios bajos hasta Madam Ch'en lo
 			antes posible.
 			Reunión Ya esta en camino...
-			Cuanto más terreno tengamos que cubrir, más peligro correremos. 
+			Cuanto más terreno tengamos que cubrir, más peligro correremos.
 
 Exusiai			Eso es fácil de hacer. Tengo una ruta aquí que el enemigo nunca pensará.
- 
-Liskarm			¿Ya tienes algo en mente? 
+
+Liskarm			¿Ya tienes algo en mente?
 
 Exusiai			Por supuesto~
-			Pero tendré que echar un vistazo yo misma primero para ver si mi información es 	
-			fiable o no. 
+			Pero tendré que echar un vistazo yo misma primero para ver si mi información es
+			fiable o no.
 
-Liskarm			Trata de ser rápida en eso. 
+Liskarm			Trata de ser rápida en eso.
 
 Exusiai			Entendido~ De todos modos, ¡ya vuelvo!
-			¡Si necesitas algo, por favor contacta con otro agente de Penguin Logistics! 
+			¡Si necesitas algo, por favor contacta con otro agente de Penguin Logistics!
 
 
 					Background se difumina e fuera a dentro
 
 
 Misha			...
-			¿Puedo preguntar... a dónde vamos? 
+			¿Puedo preguntar... a dónde vamos?
 
 Amiya			Nos reuniremos con el L.G.D.
-			Ellos te protegerán. 
+			Ellos te protegerán.
 
 Misha			...¿Eh?
-			...¿el L.G.D.? 
+			...¿el L.G.D.?
 
-Amiya			Nuestra misión actual es escoltarte de forma segura hasta el L.G.D., y ellos te 
-			proporcionarán protección. 
+Amiya			Nuestra misión actual es escoltarte de forma segura hasta el L.G.D., y ellos te
+			proporcionarán protección.
 
 Misha			...
-			Casi creí... que realmente estaban aquí para salvarme. 
+			Casi creí... que realmente estaban aquí para salvarme.
 
 Amiya			No, realmente estamos...
-			Nuestro plan original era pedir a los Lungmen que nos confiaran algunos de sus 		
+			Nuestro plan original era pedir a los Lungmen que nos confiaran algunos de sus
 			infectados...
-			Pero después de escuchar nuestro informe, el L.G.D. nos pidió de repente que te 		
+			Pero después de escuchar nuestro informe, el L.G.D. nos pidió de repente que te
 			transfiriera a ellos.
 			Además... en Lungmen, estaréis más seguros bajo su protección.
 			Si no actuamos ahora, estarás en grave peligro.
-			Muchos de los infectados que venían a por ti ya llevaban la insignia de Reunion... 
+			Muchos de los infectados que venían a por ti ya llevaban la insignia de Reunion...
 
 Misha			No sé nada de esa "Reunion" de la que hablas, pero...
-			Pero sí conozco al L.G.D., y he visto cómo tratan a los infectados. Si querías que me 			
-			capturara desde el principio, deberías haberlo dicho. 
+			Pero sí conozco al L.G.D., y he visto cómo tratan a los infectados. Si querías que me
+			capturara desde el principio, deberías haberlo dicho.
 
-Amiya			Lo siento... Pero, esa no es nuestra intención. Sé que todavía hay algunos 			
+Amiya			Lo siento... Pero, esa no es nuestra intención. Sé que todavía hay algunos
 			malentendidos que deben ser resueltos.
-			Pero no importa lo malos que creas que somos... Por favor, ten paciencia con 		
+			Pero no importa lo malos que creas que somos... Por favor, ten paciencia con
 			nosotros un poco más.
 			Tu seguridad tiene prioridad sobre cómo te sientes.
 			Te lo explicaré todo si tengo la oportunidad.
-			Después de todo, todavía hay cosas que quiero saber... 
+			Después de todo, todavía hay cosas que quiero saber...
 
-Misha			... 
-
+Misha			...
