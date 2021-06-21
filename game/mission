@@ -537,19 +537,19 @@ Kal'tsit		Haah...
 
 
 
-???			¡Date prisa, esconde!
-			Yo... Necesito ir.
-			Toma esto... Esto es para ti.
-			Este es un amuleto protector. Mi madre me enseñó a estos...
-			Y esta es uno que hice.
-			Cuando haces estas muñecas a mano, puedes mantener seguras los que te importan.
+???			¡Date prisa, escóndete!
+			Yo... necesito ir.
+			Toma esto... esto es para ti.
+			Este es un amuleto protector. Mi madre me enseñó cómo hacerlos...
+			Y este es uno que hice yo.
+			Cuando haces estas muñecas a mano, puedes mantener a salvo a los que te importan.
 
-Childern		Bien, hermana Misha, ¡lo cuidaremos bien!
+Children		Bien, hermana Misha, ¡lo cuidaremos bien!
 
 Misha			Bueno, bueno.
 			Ahora, ¡ve a esconderte! Y no hagas ni un ruido.
 
-Children		¡Vale!
+Children (Niños)		¡Vale!
 
 
 
@@ -561,9 +561,9 @@ Children		¡Vale!
 
 
 
-Roiter			¿A dónde iría?  ! ¡Tras ellos! Vamos a ver hasta dónde pueden correr los
+Rioter (Alborotador)			¡¿A dónde se han ido?! ¡Tras ellos! ¡Vamos a ver hasta dónde pueden correr esos
 			infectados!
-			¿hmm? Ahora... ¿qué tenemos aquí?
+			¿Hmm? Ahora... ¿qué tenemos aquí?
 
 
 
@@ -572,29 +572,32 @@ Roiter			¿A dónde iría?  ! ¡Tras ellos! Vamos a ver hasta dónde pueden corr
 
 
 Amiya			Según los datos de Exusiai, nuestro objetivo de la misión debería haberse quedado
-			en algún lugar por aquí ...
+			en algún lugar por aquí...
 			Argh, el terreno por aquí es realmente complicado. Si estuviéramos haciendo esto
 			solos, esta tarea podría haber sido bastante problemática...
 			Por suerte, me puse en contacto con Penguin Logistics de antemano...
 			... ¿Quién está ahí?
-			¡Esas personas son...!
+			¡Esos son...!
 
-Child			¡Malos! Usted montón de malos! ¡Suéltame! dejar... ¡ir...!
+Child			¡Malos! ¡Sois un grupo de malos! ¡Suéltame! ¡Suélta... me...!
 
-Rioter			¡Dime! ¿A dónde se a ido?
-			¡Deja de jugar tonto!
+Rioter			¡Dime! ¿A dónde ha ido?
+			¡Deja de hacerte el tonto!
+
+Child     ¡Hermana! ¡Hermana! ¡Dónde estás...! Ayuda...
+          ¡Hermana Misha! ¡Hermana Misha, sálvame!
 
 Amiya			…
 
-Rioter			¿quien es?
+Rioter			¿Quién es?
 			¡Vuelve aquí!
 
 Amiya			...
-			... Debes irte ahora mismo si sabes lo que es bueno para ti.
+			... Debrías irte ahora mismo si sabes lo que es bueno para ti.
 
 Rioter			...?!
 			¡¿Quién demonios...?!
-			¡No te gusta que seas de aquí! #corregir? “You don't like you're from around here!”
+			¡No parece que seas de por aquí!
 			No nos tienes miedo...
 
 
@@ -603,21 +606,21 @@ Rioter			...?!
 
 Amiya			De lo contrario...
 
-Rioter			¿eh?
-			Gaaah!!
-			¿que-qué era eso?
-			¡arts! E-ella está usando Arts?!
-			Aaaargh! ¡Aléjate de mí!
+Rioter			¿Eh?
+			¡¡Gaaah!!
+			¿Qu-Qué era eso?
+			¡Arts! ¡¿E-Ella está usando Arts?!
+			¡Aaaargh! ¡Aléjate de mí!
 
 Amiya			... No volváis a acosar a los indefensos nunca más.
 
-Rioter			Aaaagh! ¡Monstruo!
+Rioter			¡Aaaagh! ¡Monstruo!
 
 
 						Los alborotadores huyen
 
 
-Amiya			Heh... mosntruo, ¿eh?
+Amiya			Heh... monstruo, ¿eh?
 			…
 			Todo estará bien. Puedes salir ahora.
 			Es peligroso estar aquí. Debes darte prisa y encontrar algún lugar seguro.
@@ -630,18 +633,18 @@ Amiya			¡Cuídate!
 					Aparece Franka
 
 
-Franka			Amiya, ¿que a pasado?
+Franka			Amiya, ¿qué ha pasado?
 
-Amiya			Hm, e visto un infectado ahora, probablemente no registrado
+Amiya			Hm, acabo de ver un infectado, probablemente no registrado...
 
 Franka			¿De Ursus?
 
 Amiya			Sí. Se dirigía a lo profundo de los barrios marginales.
 			Franka, reúne a los operadores cercanos.
 
-Franka			De acuerdo
+Franka			De acuerdo.
 
-Amiya			Cuanto más nos dirijamos a los barrios marginales, más difíciles serán las cosas...
+Amiya			Cuanto más nos internemos en los barrios marginales, más difíciles serán las cosas...
 			Hay civiles comunes, criminales y refugiados, todos mezclados.
 			Tendremos que hacer preparativos a fondo.
 
@@ -649,67 +652,67 @@ Liskarm			Amiya, tenemos comunicaciones entrantes.
 			Por favor, espere un segundo.
 			...
 			Así es.
-			Amiya, es el L.G.D.
+			Amiya, es el LGD.
 
-Amiya			¿Que pasa señora Ch'en?
+Amiya			¿Era la señora Ch'en?
 
 Liskarm			En efecto.
 			... Así es. Ya hemos encontrado un número de infectados no registrados.
 			... Sí.
 			... ¿Qué?
-			... Estamos tras una chica Ursus, de pelo corto y blanco, altura de unos 145 cm,
-			¿llamada Misha?
+			... ¿Estamos tras una chica de Ursus, de pelo corto y blanco, altura de unos 145 cm,
+			llamada Misha?
 
-Amiya			¿Es decir...?
+Amiya			¿Eso es...?
 
-Liskarm		... entendido.
-			Amiya, la señora Ch'en quiere que busquemos inmediatamente a los infectados que
-			acabamos de describir.
-			Una vez que la encontremos, debemos entregarla al L.G.D. inmediatamente.
+Liskarm		... Entendido.
+			Amiya, la señora Ch'en quiere que busquemos inmediatamente a la infectada que
+			recién descrita.
+			Una vez que la encontremos, debemos entregarla al LGD inmediatamente.
 
 Amiya			¿Puedo hablar con ella por favor?
-			Hola, Hola...
-			Señora Ch'en, ¿puedes oírme?
+			Hola, hola...
+			Señora Ch'en, ¿puede oírme?
 
 Ch'en			Te escucho.
 
 Amiya			¿Puedo confirmar la validez de esa orden?
 
-Ch'en			100% válido, efectivo inmediatamente.
+Ch'en			100% válido, efectiva inmediatamente.
 
 Amiya			Ya veo.
 
 						Ch'en cuelga
 
 Amiya			...
-			De repente colgó...
+			Ha colgado de repente...
 
-Franka			Esa Ch'en, ella tiene un poco de temperamento.
+Franka			Esa Ch'en, tiene algo de genio.
 
 Amiya			Así que esta va a ser nuestra misión por ahora...
 
 Liskarm			Amiya, acabo de recibir otro mensaje de varios defensores.
-			Conocieron a algunos individuos que eran abiertamente hostiles a los operadores de
+			Se han encontrado con algunos individuos que eran abiertamente hostiles a los operadores de
 			Rhodes Island.
-			Además, esos atacantes no eran gente común, eran... infectado.
+			Además, esos atacantes no eran gente común, eran... infectados.
 
 Amiya			... Que los defensores retrocedan hacia nosotros.
-			Equipo scout! Nuestro objetivo es una chica ursusiana de pelo corto y blanco,
-			altura de 145 cm. ¡Recordar permanecer ocultos y manteneros a salvo!
-			Otros operadores, sigan a sus líderes y se extiendan. #dudas “spread out”
+			¡Equipo de exploradores! Nuestro objetivo es una chica ursusiana de pelo corto y blanco,
+			altura de 145 cm. ¡Recordad permanecer ocultos y manteneros a salvo!
+			Otros operadores, seguid a vuestros líderes y distribuíos.
 
-Doctor			Lo mejor sería detenerlos. / Así que estamos... va a atraerlos en? / Franka, vamos a acarlos de frente.
+Doctor			Lo mejor sería entretenerlos. / Así que... ¿vamos a atraerlos? / Franka, vamos a acarlos de frente.
 
-Franka			eh... Bien.
-			Liskarm, este niño es bastante inteligente
+Franka			Hey... no está mal.
+			Liskarm, este niño es bastante inteligente.
 
-Liskarm			... El Dr. {player_name} es nuestro comandante táctico. Usted debe tomar esto más en serio.
+Liskarm			... El Dr. {player_name} es nuestro comandante táctico. Deberías tomarte esto más en serio.
 
 Amiya			Empecemos.
 			Así que... Rhodes Island tiene que luchar contra los infectados de nuevo...
 
 
-						Despues de la operacion
+						Después de la operación
 
 
 
@@ -717,16 +720,16 @@ Amiya			Empecemos.
 
 Misha			Ufff...
 			Probablemente no me encontrarán si me escondo aquí...
-			Pero, ya no podré volver a esos niños.
+			Pero, ya no podré volver con esos niños.
 			Espero que no les pase nada...
-			*suspiro*... por qué...
-			...!
-			¿Quien es?
+			*Suspiro*... Por qué...
+			¡...!
+			¿Quién es?
 
 Amiya			…
-			¿Tu eres La Señorita Misha?
+			¿Tú eres la señorita Misha?
 
-Misha			...¿Que?
+Misha			... ¿Qué?
 
 
 				Background se desenfoca de fuera a dentro
@@ -734,12 +737,12 @@ Misha			...¿Que?
 
 Misha			...
 
-Amiya			Lo siento, señorita Misha. Espero no asustarte...
+Amiya			Lo siento, señorita Misha. Espero no haberte asustado...
 			Estas son mis amigas, Franka y Liskarm.
 
-Franka			Hola
+Franka			¿Qué hay?
 
-Liskarm			Buenos dias #no se como traducir estos saludos F;”Hey there”, L;”Good day”
+Liskarm			Buenos días.
 
 Amiya			Somos de Rhodes Island Pharmaceuticals. Como organización hecha para servir a
 			los Infectados, al menos...
@@ -748,20 +751,20 @@ Amiya			Somos de Rhodes Island Pharmaceuticals. Como organización hecha para se
 Misha			¿Hablar?
 
 Amiya			Mhm.
-			Este no es el mejor lugar para eso, aunque...
+			Aunque este no es el mejor lugar para eso...
 			A partir de ahora, nuestra principal prioridad es mantenerte segura.
-			Por el momento, te protegeremos, así que ten la seguridad.
+			Por el momento, te protegeremos, así que puedes estar tranquila.
 
-Misha			Qué... Estás hablando de...
+Misha			De qué... estás hablando...
 			...
-			Solo me vas a capturar y encerrarme, ¿no?!
+			¡Solo vas a capturarme y encerrarme, ¿no?!
 			¡Aléjate de mí! ¡Mis garras son afiladas...! Si no quieres que te haga daño...
 
 Amiya			...Pffft
 
 Misha			De qué te estás riendo...
 
-Franka			Si realmente íbamos a capturarte, no te habríamos dado la oportunidad de resistirte.
+Franka			Si realmente fuéramos a capturarte, no te habríamos dado la oportunidad de resistirte.
 
 Misha			…
 
@@ -774,30 +777,30 @@ Misha			No confío en ti...
 Amiya			...
 			––Señorita Misha, mira...
 
-Misha			Qué... ¿está haciendo?
-			... usted...
+Misha			¿Qué... estás haciendo?
+			... Tu...
 			Tu mano...
-			Tú también estás... Infectada?
+			¿Tú también estás... infectada?
 
 Amiya			Así es, soy como tú.
-			Hay muchos infectados en estos barrios marginales. Esos niños que acabas de dejar
+			Hay muchos infectados en estos suburbios. Esos niños que acabas de dejar
 			atrás... confiaron en ti.
 			Misha, ya los has puesto en peligro.
 
 Misha			... ¿Vas a usar a esos niños para amenazarme?
 
 Amiya			No, no lo haría. Pero alguien ya ha empezado a hacer exactamente eso...
-			Acabamos de perseguir a un grupo de matones que estaba tratando de amenazar a
+			Acabamos de ahuyentar a un grupo de matones que estaba tratando de amenazar a
 			esos niños.
 
-Misha			...!
+Misha			¡...!
 
-Amiya			Lungmen también está buscando a los infectados. Si Lungmen te encontró primero,
-			podría haber sido ya demasiado tarde.
-			Queríamos desviar a los alborotadores de esos niños llamando su atención sobre ti...
+Amiya			Lungmen también está buscando a los infectados. Si Lungmen te hubera encontrado primero,
+			podría haber sido demasiado tarde.
+			Queríamos desviar a los alborotadores de esos niños llamando su atención hacia ti...
 			Mirándolo desde otra perspectiva, también podríamos mantenerte a salvo de los daños.
 
-Misha			...¿Sabes por qué me persiguen?
+Misha			... ¿Sabes por qué me persiguen?
 			¿Qué razón tienen... para hacer todo esto por mí?
 
 Amiya			En realidad no sabemos por qué hay infectados persiguiéndote...
@@ -807,11 +810,11 @@ Amiya			En realidad no sabemos por qué hay infectados persiguiéndote...
 			¿Nos permitirías sacarte de aquí primero?
 
 Misha			...
-			...Bien... Vayamos.
+			...Bien... Vámonos.
 			Después de todo, no tengo otra opción, ¿verdad?
 
 Amiya			Yo no diría eso...
-			Pero al menos, gracias... ¡Señorita Misha!
+			Pero al menos, ¡gracias... señorita Misha!
 
 
 
